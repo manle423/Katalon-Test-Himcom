@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_ChangeStatusSource_ByName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0916b0d-0d1b-4800-bacf-f198a66b7346</testCaseGuid>
+</TestCaseEntity>

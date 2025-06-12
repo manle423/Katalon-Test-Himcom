@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_ChangeStatusJobPosition_ByName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>200983cf-8550-4257-9252-ef34e927a266</testCaseGuid>
+</TestCaseEntity>

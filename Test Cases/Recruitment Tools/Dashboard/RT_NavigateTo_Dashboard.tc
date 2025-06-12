@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case verifies that the user can navigate to the Dashboard section of Recruitment Tools from the sidebar menu.</description>
+   <name>RT_NavigateTo_Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df7fcdf8-5bda-46f7-aa3f-52c1a3e12b6c</testCaseGuid>
+</TestCaseEntity>

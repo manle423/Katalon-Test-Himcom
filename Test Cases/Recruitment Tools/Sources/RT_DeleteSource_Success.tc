@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_DeleteSource_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac007ccb-31d9-4ff9-98aa-eeb62946e0fe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_SearchJobPosition_ByNameAndStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ebe2121d-7ae0-4fe5-86ee-274cf61dbd11</testCaseGuid>
+</TestCaseEntity>

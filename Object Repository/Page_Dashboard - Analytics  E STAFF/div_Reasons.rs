@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Reasons</name>
+   <tag></tag>
+   <elementGuidId>fd692630-7f58-41ef-940b-c87b4843fda3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='layout-menu']/ul/li[6]/ul/li[5]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Reasons&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f99d191-45a6-482d-a899-f97087f0a825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reasons</value>
+      <webElementGuid>5846d406-0f42-4ce3-b0ea-0deb14038fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps ps--active-y&quot;]/li[@class=&quot;menu-item active open&quot;]/ul[@class=&quot;menu-sub&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link&quot;]/div[1]</value>
+      <webElementGuid>1331e45f-06bc-41bc-bc64-0de4aa1970c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='layout-menu']/ul/li[6]/ul/li[5]/a/div</value>
+      <webElementGuid>2bc80e9a-8c5c-49e3-90a8-10db3e033d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sources'])[1]/following::div[1]</value>
+      <webElementGuid>1ca5ddae-41c8-4651-9e12-bc17b303bfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recruitment'])[1]/following::div[2]</value>
+      <webElementGuid>52bdf730-f900-40b7-9d62-d4783722ab3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/preceding::div[1]</value>
+      <webElementGuid>b8e02f95-80bd-4deb-a3dd-5f80ebb05ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Industries'])[1]/preceding::div[2]</value>
+      <webElementGuid>b559782d-25f9-40a1-90a7-65b0abf11873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reasons']/parent::*</value>
+      <webElementGuid>f969ba15-b0bd-453f-8f50-15602c6d4604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li[5]/a/div</value>
+      <webElementGuid>60aea861-072c-4728-85b9-95d6bd5eefd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Reasons' or . = 'Reasons')]</value>
+      <webElementGuid>d3bd6ae0-91d5-42ae-bd0a-45b37ccd76db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

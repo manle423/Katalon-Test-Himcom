@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_SearchSkill_ByNameAndGroupSkill</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc8cebae-f547-4784-8f17-c505e403cf1b</testCaseGuid>
+</TestCaseEntity>
