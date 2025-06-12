@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_SearchSource_ByNameAndCode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c3c6411-21e7-4d80-8e9c-11481c12a98d</testCaseGuid>
+</TestCaseEntity>

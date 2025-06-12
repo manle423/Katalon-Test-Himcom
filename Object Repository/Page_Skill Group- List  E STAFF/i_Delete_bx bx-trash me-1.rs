@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Delete_bx bx-trash me-1</name>
+   <tag></tag>
+   <elementGuidId>cd569cd2-9ae0-40dd-ad84-49edfb2b72ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='deleteForm_39']/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-trash.me-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Delete&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a284d4a0-3eb7-4903-a704-021f8b70520d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-trash me-1</value>
+      <webElementGuid>facf72c9-2863-48d5-8776-65a99b5bf032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;deleteForm_39&quot;)/button[@class=&quot;dropdown-item delete-btn&quot;]/i[@class=&quot;bx bx-trash me-1&quot;]</value>
+      <webElementGuid>2dfb236d-9c10-4f49-b915-d47de2c9be91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='deleteForm_39']/button/i</value>
+      <webElementGuid>8f811f79-44f5-4152-9e3a-8dcf679d1d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/i</value>
+      <webElementGuid>2e58ad2a-f35f-4e9f-ae42-50c16670edeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_DeleteReason</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f44b5cd-6337-407b-b0f5-d2b68ffc630f</testCaseGuid>
+</TestCaseEntity>

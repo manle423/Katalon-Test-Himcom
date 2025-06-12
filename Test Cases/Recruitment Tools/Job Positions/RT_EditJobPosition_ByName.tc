@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_EditJobPosition_ByName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e9a56b9-41cb-4188-9aaf-54bcf28570f3</testCaseGuid>
+</TestCaseEntity>

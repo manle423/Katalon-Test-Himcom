@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_DeleteJobPosition_ByName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb2f91fb-d1e9-48a7-833c-88b9623f0c56</testCaseGuid>
+</TestCaseEntity>

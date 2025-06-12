@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_NavigateTo_JobPositions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ab70a77-cd5a-46bc-aac3-29f69579d2d7</testCaseGuid>
+</TestCaseEntity>
