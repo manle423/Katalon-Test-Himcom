@@ -17,13 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+String skillName = 'Test Skill 99'
+
 CustomKeywords.'custom.keywords.NavigationActions.navigateToSkills'()
 
-WebUI.setText(findTestObject('Page_Skill - List  E STAFF/input_List of skills_search'), 'Computer')
-
-WebUI.selectOptionByLabel(findTestObject('Page_Skill - List  E STAFF/select_All Skill Groups'), 'Computer Skills', false)
+WebUI.setText(findTestObject('Page_Skill - List  E STAFF/input_List of skills_search'), skillName)
 
 WebUI.click(findTestObject('Page_Skill - List  E STAFF/button_Search'))
 
-WebUI.verifyTextPresent('Computer', false)
+TestObject moreOptionsBtn = findTestObject('Page_Skill - List  E STAFF/button_MoreOptions_SkillName', [('skillName') : skillName])
+
+WebUI.waitForElementVisible(moreOptionsBtn, 10)
+
+WebUI.click(moreOptionsBtn)
+
+WebUI.click(findTestObject('Page_Skill - List  E STAFF/a_Edit'))
+
+WebUI.setText(findTestObject('Page_Skill - Edit  E STAFF/input_Skill Name_name'), 'Test Skill 99 Updated')
+
+WebUI.click(findTestObject('Page_Skill - Edit  E STAFF/button_Submit'))
+
+WebUI.verifyTextPresent('Successfully updated skill', false)
 

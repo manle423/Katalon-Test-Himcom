@@ -17,13 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'custom.keywords.NavigationActions.navigateToSkills'()
+CustomKeywords.'custom.keywords.NavigationActions.navigateToSkillGroups'()
 
-WebUI.setText(findTestObject('Page_Skill - List  E STAFF/input_List of skills_search'), 'Computer')
+WebUI.click(findTestObject('Page_Skill Group- List  E STAFF/span_Add'))
 
-WebUI.selectOptionByLabel(findTestObject('Page_Skill - List  E STAFF/select_All Skill Groups'), 'Computer Skills', false)
+WebUI.setText(findTestObject('Page_Skill Group - Create  E STAFF/input_Name_name'), 'Skill Group 99')
 
-WebUI.click(findTestObject('Page_Skill - List  E STAFF/button_Search'))
+WebUI.click(findTestObject('Page_Skill Group - Create  E STAFF/button_Submit'))
 
-WebUI.verifyTextPresent('Computer', false)
+WebUI.verifyTextPresent('Successfully created skill group', false)
 

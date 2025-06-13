@@ -19,11 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'custom.keywords.NavigationActions.navigateToSkills'()
 
-WebUI.setText(findTestObject('Page_Skill - List  E STAFF/input_List of skills_search'), 'Computer')
+WebUI.click(findTestObject('Page_Skill - List  E STAFF/span_Add'))
 
-WebUI.selectOptionByLabel(findTestObject('Page_Skill - List  E STAFF/select_All Skill Groups'), 'Computer Skills', false)
+WebUI.selectOptionByLabel(findTestObject('Page_Create Skill  E STAFF/select_Select a Skill Group'), 'Skill Group 99', false)
 
-WebUI.click(findTestObject('Page_Skill - List  E STAFF/button_Search'))
+WebUI.setText(findTestObject('Page_Create Skill  E STAFF/input_Skill_name'), 'Test Skill 99')
 
-WebUI.verifyTextPresent('Computer', false)
+WebUI.click(findTestObject('Page_Create Skill  E STAFF/button_Submit'))
+
+WebUI.verifyTextPresent('Successfully created skill', false)
 

@@ -65,6 +65,13 @@ public class NavigationActions {
 		WebUI.verifyTextPresent('List of skills', false)
 	}
 
+	def navigateToSkillGroups() {
+		navigateToSkills()
+		WebUI.click(findTestObject('Page_Skill - List  E STAFF/div_More actions'))
+		WebUI.click(findTestObject('Page_Skill - List  E STAFF/a_View Skill Groups'))
+		WebUI.verifyTextPresent('List of skill groups', false)
+	}
+	
 	def navigateToJobIndustries() {
 		new LoginActions().login('admin@gmail.com', 'AdminPass1@')
 		WebUI.click(findTestObject('Page_Dashboard - Analytics  E STAFF/a_Recruitment Tools'))
