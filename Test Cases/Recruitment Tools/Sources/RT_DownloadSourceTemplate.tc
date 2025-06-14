@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_DownloadSourceTemplate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37af03a9-27a8-4793-9e15-58c3b6a1d85b</testCaseGuid>
+</TestCaseEntity>

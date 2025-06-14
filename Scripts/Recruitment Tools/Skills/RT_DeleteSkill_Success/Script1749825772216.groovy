@@ -17,18 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'custom.keywords.NavigationActions.navigateToJobPositions'()
+String skillName = 'John Doe'
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/input_Add Job_search'), 'HIM')
+CustomKeywords.'custom.keywords.NavigationActions.navigateToSkills'()
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/select_Filter by status'), 
-    'On-going', false)
+WebUI.setText(findTestObject('Page_Skill - List  E STAFF/input_List of skills_search'), skillName)
 
-WebUI.click(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/button_Filter'))
+WebUI.click(findTestObject('Page_Skill - List  E STAFF/button_Search'))
 
-WebUI.verifyTextPresent('HIM', false)
+TestObject moreOptionsBtn = findTestObject('Page_Skill - List  E STAFF/button_MoreOptions_SkillName', [('skillName') : skillName])
 
-WebUI.verifyTextPresent('On-going', false)
+WebUI.waitForElementVisible(moreOptionsBtn, 10)
 
-WebUI.closeBrowser()
+WebUI.click(moreOptionsBtn)
+
+WebUI.click(findTestObject('Page_Skill - List  E STAFF/button_Delete'))
+
+WebUI.waitForAlert(5)
+
+WebUI.acceptAlert()
+
+WebUI.verifyTextPresent('Successfully deleted skill', false)
 

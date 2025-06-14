@@ -17,18 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'custom.keywords.NavigationActions.navigateToJobPositions'()
+CustomKeywords.'custom.keywords.NavigationActions.navigateToSources'()
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/input_Add Job_search'), 'HIM')
+WebUI.click(findTestObject('Page_Reason - List  E STAFF/div_More actions'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/select_Filter by status'), 
-    'On-going', false)
+WebUI.click(findTestObject('Page_Source - List  E STAFF/a_Import data'))
 
-WebUI.click(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/button_Filter'))
-
-WebUI.verifyTextPresent('HIM', false)
-
-WebUI.verifyTextPresent('On-going', false)
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Page_Source - List  E STAFF/a_Download import template'))
 

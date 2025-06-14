@@ -17,18 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'custom.keywords.NavigationActions.navigateToJobPositions'()
+String skillGroupName = 'Skill Group 99'
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/input_Add Job_search'), 'HIM')
+CustomKeywords.'custom.keywords.NavigationActions.navigateToSkillGroups'()
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/select_Filter by status'), 
-    'On-going', false)
+WebUI.setText(findTestObject('Page_Skill Group- List  E STAFF/input_List of skill groups_search'), skillGroupName)
 
-WebUI.click(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/button_Filter'))
+WebUI.click(findTestObject('Page_Skill Group- List  E STAFF/button_Search'))
 
-WebUI.verifyTextPresent('HIM', false)
+TestObject moreOptionsBtn = findTestObject('Page_Skill Group- List  E STAFF/button_MoreOptions_BySkillGroupName', [('skillGroupName') : skillGroupName])
 
-WebUI.verifyTextPresent('On-going', false)
+WebUI.waitForElementVisible(moreOptionsBtn, 10)
 
-WebUI.closeBrowser()
+WebUI.click(moreOptionsBtn)
+
+WebUI.click(findTestObject('Page_Skill Group- List  E STAFF/i_Edit_bx bx-edit-alt me-1'))
+
+WebUI.setText(findTestObject('Page_Skill Group - Edit  E STAFF/input_Skill Group Name_name'), 'Skill Group 99 updated')
+
+WebUI.click(findTestObject('Page_Skill Group - Edit  E STAFF/button_Submit'))
+
+WebUI.verifyTextPresent('Successfully updated skill group', false)
 

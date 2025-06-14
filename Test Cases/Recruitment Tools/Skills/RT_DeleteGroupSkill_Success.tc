@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_DeleteGroupSkill_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5301520-5fb5-4903-ba54-65fc20e02bd5</testCaseGuid>
+</TestCaseEntity>

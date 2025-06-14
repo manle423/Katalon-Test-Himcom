@@ -45,7 +45,7 @@ public class NavigationActions {
 	def navigateToSources() {
 		new LoginActions().login('admin@gmail.com', 'AdminPass1@')
 		WebUI.click(findTestObject('Page_Dashboard - Analytics  E STAFF/a_Recruitment Tools'))
-		WebUI.click(findTestObject(''))
+		WebUI.click(findTestObject('Page_Dashboard - Analytics  E STAFF/div_Sources'))
 		WebUI.verifyTextPresent('List of sources', false)
 	}
 
@@ -71,7 +71,7 @@ public class NavigationActions {
 		WebUI.click(findTestObject('Page_Skill - List  E STAFF/a_View Skill Groups'))
 		WebUI.verifyTextPresent('List of skill groups', false)
 	}
-	
+
 	def navigateToJobIndustries() {
 		new LoginActions().login('admin@gmail.com', 'AdminPass1@')
 		WebUI.click(findTestObject('Page_Dashboard - Analytics  E STAFF/a_Recruitment Tools'))

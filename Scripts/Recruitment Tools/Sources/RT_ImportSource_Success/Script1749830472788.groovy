@@ -17,18 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'custom.keywords.NavigationActions.navigateToJobPositions'()
+CustomKeywords.'custom.keywords.NavigationActions.navigateToSources'()
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/input_Add Job_search'), 'HIM')
+WebUI.click(findTestObject('Page_Reason - List  E STAFF/div_More actions'))
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/select_Filter by status'), 
-    'On-going', false)
+WebUI.click(findTestObject('Page_Source - List  E STAFF/a_Import data'))
 
-WebUI.click(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/button_Filter'))
+//WebUI.click(findTestObject('Page_Source - List  E STAFF/input_Upload CSV file_file'))
+String filePath = 'C:\\Users\\CanhThieng\\Downloads\\source_import_template.xlsx'
 
-WebUI.verifyTextPresent('HIM', false)
+WebUI.uploadFile(findTestObject('Page_Source - List  E STAFF/input_Upload CSV file_file'), filePath)
 
-WebUI.verifyTextPresent('On-going', false)
+WebUI.click(findTestObject('Page_Source - List  E STAFF/button_Import'))
 
-WebUI.closeBrowser()
+WebUI.verifyTextPresent('Import successful.', false)
 

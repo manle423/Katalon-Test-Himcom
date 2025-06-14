@@ -39,3 +39,5 @@ WebUI.acceptAlert()
 
 WebUI.verifyTextNotPresent(jobName, false)
 
+WebUI.closeBrowser()
+
