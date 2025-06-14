@@ -79,4 +79,12 @@ public class NavigationActions {
 		WebUI.click(findTestObject('Object Repository/Page_Dashboard - Analytics  E STAFF/div_Job Industries'))
 		WebUI.verifyTextPresent('List of Job Industries', false)
 	}
+	
+	def navigateToEmployeesGeneralInformation() {
+		new LoginActions().login('admin@gmail.com', 'AdminPass1@')
+		WebUI.click(findTestObject('Object Repository/Page_Dashboard - Analytics  E STAFF/a_Employees'))
+		WebUI.scrollToElement(findTestObject('Object Repository/Page_Employees - List  E STAFF/div_General Information'), 5)
+		WebUI.click(findTestObject('Page_Employees - List  E STAFF/a_General Information'))
+		WebUI.verifyTextPresent('Employees General Information', false)
+	}
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_GeneralInformation_CheckFilterByOrg</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8f474ae-f2d0-4faa-8478-14ce66a0a643</testCaseGuid>
+</TestCaseEntity>
