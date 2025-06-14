@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>RT_EditSkillGroup_Success</name>
+   <name>RT_DeleteSkill_Success</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>072895bf-05d1-4448-8462-35f1c0474955</testCaseGuid>
+   <testCaseGuid>46198d72-2367-4782-b811-f8ac15e27328</testCaseGuid>
 </TestCaseEntity>

@@ -17,18 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'custom.keywords.NavigationActions.navigateToJobPositions'()
+CustomKeywords.'custom.keywords.NavigationActions.navigateToSkillGroups'()
 
-WebUI.setText(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/input_Add Job_search'), 'HIM')
+WebUI.setText(findTestObject('Page_Skill Group- List  E STAFF/input_List of skill groups_search'), 'Computer')
 
-WebUI.selectOptionByLabel(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/select_Filter by status'), 
-    'On-going', false)
+WebUI.click(findTestObject('Page_Skill Group- List  E STAFF/button_Search'))
 
-WebUI.click(findTestObject('Object Repository/Page_Job Positions - List  E STAFF/button_Filter'))
-
-WebUI.verifyTextPresent('HIM', false)
-
-WebUI.verifyTextPresent('On-going', false)
-
-WebUI.closeBrowser()
+WebUI.verifyTextPresent('Computer', false)
 
