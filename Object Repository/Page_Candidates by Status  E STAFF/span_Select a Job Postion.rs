@@ -6,19 +6,19 @@
    <elementGuidId>9f3db03d-ca33-4183-b2de-47e735b777bf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='select2-company_jobs-container']</value>
+         <key>CSS</key>
+         <value>span.select2-selection.select2-selection--single</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#select2-company_jobs-container</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='VNM.Sales Team Leader'])[1]/following::span[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#select2-company_jobs-container</value>
+         <value>internal:role=combobox[name=&quot;Select a Job Postion&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9c17f862-7d11-401d-aba0-9ce303b9f379</webElementGuid>
+      <webElementGuid>9de50111-79cd-4457-b91a-448a0007f621</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-selection__rendered</value>
-      <webElementGuid>a37108b2-8be2-48af-bbf3-05bc9b5e229e</webElementGuid>
+      <value>select2-selection select2-selection--single</value>
+      <webElementGuid>994b18ec-6a4e-413d-9db4-e1a7e0264c0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,8 +52,8 @@
       <matchCondition>equals</matchCondition>
       <name>role</name>
       <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>b070ecf9-211e-4cd5-b7fd-b498bd5511a8</webElementGuid>
+      <value>combobox</value>
+      <webElementGuid>ccd3525b-2726-4f07-be6e-76fc1afaf5fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,18 +69,98 @@
       <name>text</name>
       <type>Main</type>
       <value>Select a Job Postion</value>
-      <webElementGuid>074140fc-28fc-4731-9c35-239b2dd4bce0</webElementGuid>
+      <webElementGuid>a8bcb2a5-f0d9-4eea-8345-15a8204da214</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-company_jobs-container&quot;)</value>
-      <webElementGuid>664da6d8-2047-43b6-8b0f-e6543c60f16f</webElementGuid>
+      <value>/html[@class=&quot;light-style layout-menu-fixed translated-ltr&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap-5 select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
+      <webElementGuid>41763430-d499-4833-a55b-548923ca8808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>2e1535f5-1abb-4835-9d13-300be9ac8117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>60c6941c-20a5-4799-8507-aae737c696ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6a456ded-676e-4410-bc9c-a49438ae0684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2a13d813-d0e1-4746-9c1a-36c079be0bec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>select2-job_position_id-container</value>
+      <webElementGuid>b46698b9-c48e-47ec-bf74-c8ca75b34fd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VNM.Sales Team Leader'])[1]/following::span[3]</value>
+      <webElementGuid>9985fe3f-441d-4c72-b032-342030ea574d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VNM.Customer Service Officer (CS)'])[1]/following::span[3]</value>
+      <webElementGuid>4871a196-b9a0-4117-b859-77fefe4a5c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::span[5]</value>
+      <webElementGuid>2d67c4d7-1355-40ff-9321-80dc2320da39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span</value>
+      <webElementGuid>902d2145-ac4e-42f5-96cd-4d99c26f98a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select a Job Postion' or . = 'Select a Job Postion')]</value>
+      <webElementGuid>dd7260e9-84cb-4123-a3b8-ea44272f912d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
