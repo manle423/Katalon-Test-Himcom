@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Search by employee name_bx bx-search me-sm-1</name>
+   <tag></tag>
+   <elementGuidId>11a54b32-632c-4009-af64-1bde618e0c4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-search.me-sm-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='datatable_limit']/div/div[2]/div/div[2]/button/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>525e3434-033a-4130-aa40-c4e56768433e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-search me-sm-1</value>
+      <webElementGuid>72937e2a-c21b-472b-b52c-99fedc0ac404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable_limit&quot;)/div[@class=&quot;row px-3 py-3 align-items-center&quot;]/div[@class=&quot;col-sm-12 col-md-6 d-flex justify-content-center justify-content-md-end py-1 py-md-0&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-row&quot;]/button[@class=&quot;btn&quot;]/span[1]/i[@class=&quot;bx bx-search me-sm-1&quot;]</value>
+      <webElementGuid>5200bc15-1b09-40dd-840b-bdd65fc89f1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='datatable_limit']/div/div[2]/div/div[2]/button/span/i</value>
+      <webElementGuid>3d32dbc4-a925-49c2-9211-b317c28a8f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/i</value>
+      <webElementGuid>9dc811b6-b863-4f4f-a68e-72468651bc0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

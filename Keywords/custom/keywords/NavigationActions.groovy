@@ -79,12 +79,37 @@ public class NavigationActions {
 		WebUI.click(findTestObject('Object Repository/Page_Dashboard - Analytics  E STAFF/div_Job Industries'))
 		WebUI.verifyTextPresent('List of Job Industries', false)
 	}
-	
+
 	def navigateToEmployeesGeneralInformation() {
 		new LoginActions().login('admin@gmail.com', 'AdminPass1@')
 		WebUI.click(findTestObject('Object Repository/Page_Dashboard - Analytics  E STAFF/a_Employees'))
 		WebUI.scrollToElement(findTestObject('Object Repository/Page_Employees - List  E STAFF/div_General Information'), 5)
 		WebUI.click(findTestObject('Page_Employees - List  E STAFF/a_General Information'))
 		WebUI.verifyTextPresent('Employees General Information', false)
+	}
+
+	def navigateToEmployeePermanentEmployees() {
+		new LoginActions().login('admin@gmail.com', 'AdminPass1@')
+		WebUI.click(findTestObject('Object Repository/Page_Dashboard - Analytics  E STAFF/a_Employees'))
+		WebUI.scrollToElement(findTestObject('Object Repository/Page_Employees - List  E STAFF/a_Permanent Employees'), 5)
+		WebUI.click(findTestObject('Page_Employees - List  E STAFF/a_Permanent Employees'))
+		WebUI.verifyTextPresent('Choose Company', false)
+	}
+
+	def navigateToEmployeeTemporaryEmployees() {
+		new LoginActions().login('admin@gmail.com', 'AdminPass1@')
+		WebUI.click(findTestObject('Object Repository/Page_Dashboard - Analytics  E STAFF/a_Employees'))
+		WebUI.scrollToElement(findTestObject('Object Repository/Page_Employees - List  E STAFF/a_Temporary Employees'), 5)
+		WebUI.click(findTestObject('Object Repository/Page_Employees - List  E STAFF/a_Temporary Employees'))
+		WebUI.verifyTextPresent('Choose a Project', false)
+	}
+
+	def navigateToEmployeeMbisEmployees() {
+		new LoginActions().login('admin@gmail.com', 'AdminPass1@')
+		WebUI.click(findTestObject('Object Repository/Page_Dashboard - Analytics  E STAFF/a_Employees'))
+		WebUI.scrollToElement(findTestObject('Object Repository/Page_Employees - List  E STAFF/a_MIBS x iRED Employees'), 5)
+		WebUI.click(findTestObject('Object Repository/Page_Employees - List  E STAFF/a_MIBS x iRED Employees'))
+		WebUI.click(findTestObject('Object Repository/Page_Companies - List  E STAFF/button_View Employee'))
+		WebUI.verifyTextPresent('List of MibsXiRed Employees', false)
 	}
 }

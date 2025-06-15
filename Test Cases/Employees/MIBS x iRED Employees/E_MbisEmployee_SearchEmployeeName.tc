@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_MbisEmployee_SearchEmployeeName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f3186ebd-2f16-4802-a190-21402e316d05</testCaseGuid>
+</TestCaseEntity>

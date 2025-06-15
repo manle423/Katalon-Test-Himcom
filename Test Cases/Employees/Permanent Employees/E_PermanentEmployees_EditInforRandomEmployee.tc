@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_PermanentEmployees_EditInforRandomEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>112aa9a3-42a1-4731-a541-94ef13064f75</testCaseGuid>
+</TestCaseEntity>

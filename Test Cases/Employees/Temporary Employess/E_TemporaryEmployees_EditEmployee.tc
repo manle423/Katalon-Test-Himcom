@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_TemporaryEmployees_EditEmployee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27cfbf9c-1b23-42ea-a162-75fdd433f684</testCaseGuid>
+</TestCaseEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bd0cc584-ebd4-40c3-9d28-f9260c9df315</webElementGuid>
+      <webElementGuid>93a35202-b929-4ed9-ad32-23917c317876</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>d-none d-sm-inline-block btn btn-outline-primary</value>
-      <webElementGuid>24daf04d-9d0b-4158-b057-14d33a1c6dc2</webElementGuid>
+      <webElementGuid>47aa49ea-8a87-4569-93ee-32540f71fee1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <value>
                     More actions
                 </value>
-      <webElementGuid>53def20d-8964-44cd-86cd-5f3ccb841cb9</webElementGuid>
+      <webElementGuid>6d2a536c-76cb-43e5-84c2-98a489b85cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;d-flex align-items-center justify-content-between&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;dropdown align-self-center mx-2 mx-sm-3&quot;]/button[@class=&quot;btn p-0 dropdown-toggle hide-arrow&quot;]/div[@class=&quot;d-none d-sm-inline-block btn btn-outline-primary&quot;]</value>
-      <webElementGuid>8133749f-e2ea-4849-9686-3cda795a99ad</webElementGuid>
+      <webElementGuid>86f3020e-9773-4b8c-8dd3-5e73b48e295a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Company'])[1]/following::div[3]</value>
-      <webElementGuid>559cce85-8ce8-4e06-b9a4-6b1bde32f7e2</webElementGuid>
+      <webElementGuid>9745d4e3-7733-4d32-932d-6c866869de1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out'])[1]/following::div[6]</value>
-      <webElementGuid>af0d4f99-8e60-4c89-b36b-5f6848c289d6</webElementGuid>
+      <webElementGuid>5d09c488-c663-44bf-8136-e20ce47b9273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Entries'])[1]/preceding::div[2]</value>
-      <webElementGuid>32d63237-7df4-4295-9e92-8dab92b8f592</webElementGuid>
+      <webElementGuid>ff8e1148-6ab2-4dd2-b377-bf95745101d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div</value>
-      <webElementGuid>b557c28b-9677-4d98-bcfb-41073c3155f0</webElementGuid>
+      <webElementGuid>b95e30d1-35ae-415f-ade1-9d46ba9ebc12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +99,6 @@
                 ' or . = '
                     More actions
                 ')]</value>
-      <webElementGuid>43dd47fc-eb0c-493c-9238-07fe811a30bf</webElementGuid>
+      <webElementGuid>b543133a-44fa-440b-aa12-4306b3f861b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

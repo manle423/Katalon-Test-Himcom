@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_MbisEmployee_CheckShowEntries</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>302f0a39-7169-4ade-b8fa-f3bfebc4e96b</testCaseGuid>
+</TestCaseEntity>

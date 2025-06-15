@@ -26,54 +26,28 @@ import org.openqa.selenium.By as By
 
 String employeeName = 'Tôn Nữ Bảo Trâm'
 
-// Navigate
 CustomKeywords.'custom.keywords.NavigationActions.navigateToEmployeesGeneralInformation'()
 
 WebUI.setText(findTestObject('Page_Employees - List  E STAFF/input_Search_search'), employeeName)
-
 WebUI.click(findTestObject('Page_Employees - List  E STAFF/button_Search_btn'))
-
 WebUI.verifyTextPresent(employeeName, false)
-
-// 🧾 Lấy dữ liệu từ bảng
 WebDriver driver = DriverFactory.getWebDriver()
-
 WebElement row = driver.findElement(By.xpath('//table//tbody/tr'))
-
 String identifier = row.findElement(By.xpath('td[1]')).getText().trim()
-
 String idBackLink = row.findElement(By.xpath('td[3]/a')).getAttribute('href').trim()
-
 String fullName = row.findElement(By.xpath('td[4]')).getText().trim()
-
 String email = row.findElement(By.xpath('td[5]')).getText().trim()
-
 String dob = row.findElement(By.xpath('td[6]')).getText().trim()
-
 String gender = row.findElement(By.xpath('td[7]')).getText().trim()
-
 println('📋 Table Data:')
-
 println("$identifier | $idBackLink | $fullName | $email | $dob | $gender")
-
-// 📎 Click nút ba chấm ⋮
 WebUI.waitForElementClickable(findTestObject('Page_Employees - List  E STAFF/i_Male_bx bx-dots-vertical-rounded'), 5)
-
 WebUI.click(findTestObject('Page_Employees - List  E STAFF/i_Male_bx bx-dots-vertical-rounded'))
-
-WebUI.delay(1.5 // Tăng delay để menu dropdown chắc chắn được render
-    )
-
-// ✅ Tạo XPath và TestObject cho nút View
+WebUI.delay(1.5)
 String viewXPath = '//a[contains(@class, \'dropdown-item\') and contains(., \'View\')]'
-
 TestObject viewBtn = new TestObject().addProperty('xpath', ConditionType.EQUALS, viewXPath)
-
-// 🔍 Poll để chờ xuất hiện nếu render trễ
 int retry = 0
-
 boolean found = false
-
 while ((retry < 5) && !(found)) {
     try {
         WebElement el = WebUiCommonHelper.findWebElement(viewBtn, 2)
