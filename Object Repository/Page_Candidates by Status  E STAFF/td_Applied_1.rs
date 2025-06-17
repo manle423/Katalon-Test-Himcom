@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Applied_1</name>
+   <tag></tag>
+   <elementGuidId>11184705-5c69-42dc-83ce-a195495e5e2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td:nth-of-type(8)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr[4]/td[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>035a0895-a9e8-43ab-bdd8-9183bb60e1f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                    Applied
+                                                                            </value>
+      <webElementGuid>57c1a440-dca7-42f3-bc15-971ba8c9d145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[4]/td[8]</value>
+      <webElementGuid>c78592d6-1780-4df8-af99-aeec7ae7eb94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example']/tbody/tr[4]/td[8]</value>
+      <webElementGuid>5ac20b45-85b0-4067-bec8-a3a7642d0b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tuongvybp2003@gmail.com'])[1]/following::td[3]</value>
+      <webElementGuid>ea63ff0f-4334-4af0-8e8e-d5b8f1c2a804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDUCATION'])[1]/following::td[4]</value>
+      <webElementGuid>e9f8ea18-1c8a-4225-a317-848a3a042765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[4]/preceding::td[1]</value>
+      <webElementGuid>f566de32-bbaf-44ab-8e96-571fe8e15de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[4]/preceding::td[2]</value>
+      <webElementGuid>c5446c9b-a01f-4f2a-809a-47c1c003bd60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[8]</value>
+      <webElementGuid>cf555758-3839-4739-bc10-202ac2a566bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                                                                    Applied
+                                                                            ' or . = '
+                                                                                    Applied
+                                                                            ')]</value>
+      <webElementGuid>ca5f3396-073d-4acb-9cdc-3442ff6f8f7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

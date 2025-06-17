@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit</name>
+   <tag></tag>
+   <elementGuidId>6023b4c9-9ad5-4fa2-a95b-0817a1f73a0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Edit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>877999e1-7fc4-4423-b50c-c9ea292097ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nhanvien-test.estaff.vn/admin/subadmin/edit/60</value>
+      <webElementGuid>ef0eaf57-a28b-48fd-b1c2-315b3c54445d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>34d9c986-8697-4874-946c-854d9e80bafb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Edit</value>
+      <webElementGuid>7692276a-1347-466c-b94d-5107178faac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;table-responsive text-nowrap pt-3&quot;]/table[@class=&quot;table table-hover&quot;]/tbody[@class=&quot;table-border-bottom-0&quot;]/tr[@class=&quot;text-nowrap&quot;]/td[3]/div[@class=&quot;dropdown&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>7469545d-7144-4f54-a820-b18cfa7b78a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit')]</value>
+      <webElementGuid>0a5abbb8-d9a9-465b-8ead-9e307fbe8ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::a[1]</value>
+      <webElementGuid>ad8a9482-fea7-45e3-a561-96cc32fdcc38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::a[2]</value>
+      <webElementGuid>8ed54a68-d76e-47db-ade5-13a6165a8c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ngoc.tran@himcom.vn'])[1]/preceding::a[1]</value>
+      <webElementGuid>dbb2e4be-7ef4-4068-8914-d9be4442b844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>89c9210b-8449-498a-962a-2871a29e9399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nhanvien-test.estaff.vn/admin/subadmin/edit/60')]</value>
+      <webElementGuid>ac4ebf4d-43cd-4538-8299-68f1f4340270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a[2]</value>
+      <webElementGuid>439e3bb0-41ca-4aaa-a0af-2399b4c321a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nhanvien-test.estaff.vn/admin/subadmin/edit/60' and (text() = '
+                                            Edit' or . = '
+                                            Edit')]</value>
+      <webElementGuid>04056b5a-05f3-4d35-ad67-d67206627508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nhanvien-test.estaff.vn/admin/subadmin/edit/51')]</value>
+      <webElementGuid>ee41717f-84a2-4bc8-b6a4-a7fad588072d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nhanvien-test.estaff.vn/admin/subadmin/edit/51' and (text() = '
+                                            Edit' or . = '
+                                            Edit')]</value>
+      <webElementGuid>5b8af9a1-97c5-4cff-8049-1872348497d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Admin'])[2]/following::a[2]</value>
+      <webElementGuid>25b3a0e9-05ea-49c6-acf6-0d9250c2ce9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin1@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>e99dc3ae-2577-41e4-93ee-5408fb6f6182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nhanvien-test.estaff.vn/admin/subadmin/edit/30')]</value>
+      <webElementGuid>b7bc6431-13ac-480f-9c18-9a2fec1a6d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nhanvien-test.estaff.vn/admin/subadmin/edit/30' and (text() = '
+                                            Edit' or . = '
+                                            Edit')]</value>
+      <webElementGuid>4bbe46f0-862f-4178-910b-35be6d9651bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

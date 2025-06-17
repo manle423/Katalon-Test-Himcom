@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select one status_Active_Disabled</name>
+   <tag></tag>
+   <elementGuidId>4d51e350-d2b9-48b3-9755-c7b134bcd534</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='survey-name']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ce9a7a5d-092f-46a9-85eb-29b318d431bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>survey-name</value>
+      <webElementGuid>78bdd61b-406e-49b4-8df9-8cdf6cd879a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>edc06dd8-374a-4fa9-8468-74e2645a86c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>wire:model.live</name>
+      <type>Main</type>
+      <value>info.status</value>
+      <webElementGuid>a2de3766-0447-42bd-8fbf-24722c84b920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Select one status
+                                Active
+                                Disabled
+                            </value>
+      <webElementGuid>afc2c259-cdef-4f62-a02c-a7e18da7f9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamic-form&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-6&quot;]/div[@class=&quot;card card-primary&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group mb-3&quot;]/select[@id=&quot;survey-name&quot;]</value>
+      <webElementGuid>d60c6409-40f5-4654-aec7-2b9fbc72b32b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='survey-name']</value>
+      <webElementGuid>e17e4ea8-4abb-46e2-8a49-52ff542b3d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dynamic-form']/div/div/div/div/div[5]/select</value>
+      <webElementGuid>999a6919-7a79-4a0a-aaf4-f0f060d4df76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::select[1]</value>
+      <webElementGuid>cb4f450f-d64a-4d43-9320-87d7437c656c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Name'])[1]/following::select[1]</value>
+      <webElementGuid>a963d40e-4ec0-4689-82fa-4098428bd228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deactive Content'])[1]/preceding::select[1]</value>
+      <webElementGuid>66446b0e-b921-4d41-9ff3-9bbc425ff95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Step'])[1]/preceding::select[1]</value>
+      <webElementGuid>3950d4fa-868e-4ace-8eaf-bd3ba0d02c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/select</value>
+      <webElementGuid>6f18e27a-3a08-41ab-b7fd-a2b1417b2350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'survey-name' and (text() = '
+                                Select one status
+                                Active
+                                Disabled
+                            ' or . = '
+                                Select one status
+                                Active
+                                Disabled
+                            ')]</value>
+      <webElementGuid>d442e3f8-078e-47f8-b0ca-01ffb83f4bc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

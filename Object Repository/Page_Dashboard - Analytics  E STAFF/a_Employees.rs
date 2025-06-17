@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Employees</name>
+   <tag></tag>
+   <elementGuidId>92f254b4-84e0-4a9d-867f-9c2872680443</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='layout-menu']/ul/li[10]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>35cabdcf-6954-4bf7-b47a-d4cbe4a7b3c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>ccb8db12-26dc-4525-a6fb-aec56555dd54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link menu-toggle</value>
+      <webElementGuid>9aa4930d-c2f1-429e-a5a3-3aed6320129c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            
+                            Employees
+                          </value>
+      <webElementGuid>b526db4f-36b0-4d79-ada2-2c54d06e9496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps ps--active-y&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link menu-toggle&quot;]</value>
+      <webElementGuid>653cd931-5a22-4e9b-b289-d0f832971e27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='layout-menu']/ul/li[10]/a</value>
+      <webElementGuid>c0e7a5fa-9455-4fdc-8fdd-e3f0fee70eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banks'])[1]/following::a[1]</value>
+      <webElementGuid>4a2b6f4f-f79d-4862-8baa-95e818228903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinces'])[1]/following::a[2]</value>
+      <webElementGuid>d3873e95-6657-4ca0-b2f1-a3567b0f3f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Information'])[1]/preceding::a[1]</value>
+      <webElementGuid>16333b45-4609-4d7b-9097-c8950a3e42b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
+      <webElementGuid>d2b776eb-0f7a-4bca-8156-b4d277969c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a</value>
+      <webElementGuid>6b591ab9-3380-450e-abda-141bbe6bbb16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '
+                            
+                            Employees
+                          ' or . = '
+                            
+                            Employees
+                          ')]</value>
+      <webElementGuid>3447a585-38f8-4e74-ac0c-11376ecd0438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='layout-menu']/ul/li[4]/a</value>
+      <webElementGuid>f8952e6e-6167-43a6-bbca-18e74e389c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Industries'])[1]/following::a[1]</value>
+      <webElementGuid>9e7ab89f-3b73-43c1-9145-c6bf83800ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::a[2]</value>
+      <webElementGuid>d605b043-5998-4be4-9811-9edc7ea075db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[4]</value>
+      <webElementGuid>d93479d3-543a-40bc-9d8c-33d67efba881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>7fcacf13-af03-481b-9f55-cb752f143f30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

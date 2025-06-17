@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Created Admin acc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ea077ff-25a5-42d3-b5dd-a580e9b9f0e4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Name</name>
+   <tag></tag>
+   <elementGuidId>6c061ed8-9f3d-496a-a429-ae13bdfb22c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::th[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>ca72d965-91ac-42b4-a57a-dceed6a044ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name</value>
+      <webElementGuid>3bb7df65-679c-4f48-bfb7-487bb8e81ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;table-responsive text-nowrap pt-3&quot;]/table[@class=&quot;table table-hover&quot;]/thead[1]/tr[@class=&quot;text-nowrap&quot;]/th[1]</value>
+      <webElementGuid>384306d3-a80c-4c09-89dc-8bd91b63d6f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::th[1]</value>
+      <webElementGuid>cd7740d4-22cf-4e41-abc3-d90d869c5bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Entries'])[1]/following::th[1]</value>
+      <webElementGuid>dc2510af-8b86-451c-98d7-ef6071898665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/preceding::th[1]</value>
+      <webElementGuid>2093f59a-f5b7-4c20-b632-8fb442859e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated Date'])[1]/preceding::th[2]</value>
+      <webElementGuid>a8a4ddfd-68a7-446b-a05a-72a892686554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Name']/parent::*</value>
+      <webElementGuid>e70ae09d-43bd-4a86-9aa9-3ae681e48a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th</value>
+      <webElementGuid>53fddb9d-9219-4162-852a-f4902b69aa3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Name' or . = 'Name')]</value>
+      <webElementGuid>93599846-865d-43e3-92e6-a10666b9ea6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

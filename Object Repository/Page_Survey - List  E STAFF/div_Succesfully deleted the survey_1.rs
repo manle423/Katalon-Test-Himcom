@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Succesfully deleted the survey_1</name>
+   <tag></tag>
+   <elementGuidId>c6262e81-b24c-4d91-a372-42625faf2f61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='name-message']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ceb62f4b-c018-41e7-9211-7e7ad58fc349</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-message</value>
+      <webElementGuid>a5f5ca58-d365-466f-bcb9-949360d04d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Succesfully deleted the survey</value>
+      <webElementGuid>c9f1584d-bf9e-4551-8f6b-4323486b6db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-message&quot;)</value>
+      <webElementGuid>7c02fdf2-480d-493e-be77-e72bf4e799cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='name-message']</value>
+      <webElementGuid>7739b7fa-5d58-42c8-9f87-043556e1c6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='name-noti']/div</value>
+      <webElementGuid>74f640dc-bf9a-426d-94cd-4b63430bbc0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Survey'])[1]/following::div[2]</value>
+      <webElementGuid>25e9fbd4-543d-44ff-b9e1-e26c3a79a916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List of Surveys'])[1]/following::div[2]</value>
+      <webElementGuid>6d0e0ee8-4a1f-42be-a668-c3ce905b79f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Entries'])[1]/preceding::div[1]</value>
+      <webElementGuid>d759a67f-8590-4a45-b2e3-a734e4b4130a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::div[4]</value>
+      <webElementGuid>f6235a4e-5740-4a8c-933e-621c8a10c5e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Succesfully deleted the survey']/parent::*</value>
+      <webElementGuid>11d1cc37-0f25-4083-91af-ef3840cd250b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>97fc53e9-1212-4e95-84fb-f8bbb92df9c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'name-message' and (text() = 'Succesfully deleted the survey' or . = 'Succesfully deleted the survey')]</value>
+      <webElementGuid>d3aed908-10db-4b93-9164-687394391117</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

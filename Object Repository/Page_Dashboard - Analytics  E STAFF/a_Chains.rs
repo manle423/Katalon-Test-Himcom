@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Chains</name>
+   <tag></tag>
+   <elementGuidId>dc6f9694-cf9d-4d33-8fda-5250dcf2e19d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='layout-menu']/ul/li[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>273780c7-1d74-4314-bba4-083cf166d758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nhanvien-test.estaff.vn/admin/chain/list</value>
+      <webElementGuid>dd73e2c0-244d-4b79-af39-6b5de94de2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link</value>
+      <webElementGuid>09a00f37-e3e7-49fc-a20f-12533f8418de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            
+                            Chains
+                          </value>
+      <webElementGuid>ea02676f-c7d1-4396-9869-91ea3bdc9ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps ps--active-y&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>04a203ed-456f-4cb2-8bcb-187121495109</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='layout-menu']/ul/li[7]/a</value>
+      <webElementGuid>d3eec944-80c6-4c45-b454-fa5227230b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Industries'])[1]/following::a[1]</value>
+      <webElementGuid>53b48cd2-b21b-40ab-b0c1-57564656402e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::a[2]</value>
+      <webElementGuid>1ffc805b-0c9d-4b4d-949a-db987f8da8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinces'])[1]/preceding::a[1]</value>
+      <webElementGuid>7793405d-d57f-49c8-aa65-681bb83b3154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://nhanvien-test.estaff.vn/admin/chain/list')]</value>
+      <webElementGuid>83984b71-b19c-4ef4-835b-5750bb3834e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>62459b82-4207-4a15-9c1c-b835e827b6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nhanvien-test.estaff.vn/admin/chain/list' and (text() = '
+                            
+                            Chains
+                          ' or . = '
+                            
+                            Chains
+                          ')]</value>
+      <webElementGuid>4aafa908-ca7b-41d9-95c6-05abacb3bf8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

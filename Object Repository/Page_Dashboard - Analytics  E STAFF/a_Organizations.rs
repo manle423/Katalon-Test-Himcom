@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Organizations</name>
+   <tag></tag>
+   <elementGuidId>1783b0a3-30f0-4e1c-a4ed-65daff6c4516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-link.menu-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='layout-menu']/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9d84175e-126a-4c28-8571-1581040a3856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>b462d5f1-5700-43ec-a855-d8cd7dbcec2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link menu-toggle</value>
+      <webElementGuid>63bb4269-3f6c-434c-909b-c98146797cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            
+                            Organizations
+                          </value>
+      <webElementGuid>94480bc2-0dc7-4e69-b006-fa5444c261ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link menu-toggle&quot;]</value>
+      <webElementGuid>d0b042c3-8808-487f-b19a-8ee47d90f98d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='layout-menu']/ul/li[2]/a</value>
+      <webElementGuid>d04d9afc-a2a5-4928-9cf6-c6f557814dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Features'])[1]/following::a[1]</value>
+      <webElementGuid>d7f828d0-8a94-4f88-8475-e5ff086f74ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Companies/Projects'])[1]/preceding::a[1]</value>
+      <webElementGuid>b651d746-d392-4c15-b4c1-ec95b483073b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[2]</value>
+      <webElementGuid>15912a4e-f0a0-4d28-a6b0-e74bfcbd8385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>dd708ad4-f3f9-451d-86f3-c1a8636aea1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = '
+                            
+                            Organizations
+                          ' or . = '
+                            
+                            Organizations
+                          ')]</value>
+      <webElementGuid>ee59d451-2248-4160-8174-8089e01bf926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='layout-menu']/ul/li[5]/a</value>
+      <webElementGuid>c24098dd-972c-459e-95d1-b8ab1cc5ee1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Templates'])[1]/following::a[1]</value>
+      <webElementGuid>adcebc97-9b6f-4385-b9c0-c522b77ed6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question list'])[1]/following::a[2]</value>
+      <webElementGuid>1c9eddc8-46c2-40b0-acfa-2cdc84e62ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[3]</value>
+      <webElementGuid>4df8de07-344f-483a-8f46-fd02db821282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>30a21ccc-d5fa-4d63-a428-995baf2014b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

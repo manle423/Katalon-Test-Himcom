@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_test1</name>
+   <tag></tag>
+   <elementGuidId>f1640245-8b87-406e-a3ab-57e7e7abb383</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>71a0a663-8d6d-441b-bc8d-ddec83a8cd37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test1</value>
+      <webElementGuid>36d99e18-a8d8-4168-a2e3-715e23b10509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;table-responsive text-nowrap pt-3&quot;]/table[@class=&quot;table table-hover&quot;]/tbody[@class=&quot;table-border-bottom-0&quot;]/tr[@class=&quot;text-nowrap&quot;]/td[1]</value>
+      <webElementGuid>61c2f89f-a382-4325-8b4d-57ee733aaa07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[1]</value>
+      <webElementGuid>423d6f38-f02e-450f-bbb3-15ce7a1f233a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='URL'])[1]/following::td[1]</value>
+      <webElementGuid>c42a57aa-a072-4824-83e6-e4dba48276b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công ty TNHH HIMCOM'])[1]/preceding::td[1]</value>
+      <webElementGuid>b4d40b42-e839-4589-b817-582bd1c36ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::td[3]</value>
+      <webElementGuid>3856df52-730e-4b72-a9e4-d2c0d76ae45a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test1']/parent::*</value>
+      <webElementGuid>c1012249-0f7e-4f66-b113-88b6981ae6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>2efef972-ec30-42fd-b6c7-4f5771834ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'test1' or . = 'test1')]</value>
+      <webElementGuid>e6bfe2b6-be5a-421a-9d2a-0c3ec57da67d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

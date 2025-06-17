@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Password_bx bx-show</name>
+   <tag></tag>
+   <elementGuidId>346bc09f-48e7-423f-a79e-89fd1a48ba6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formAuthentication']/div[2]/div[2]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3a623ea7-0085-4052-89a8-401dcfb3a5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-show</value>
+      <webElementGuid>4247b3a9-2e90-472c-bbf9-a068d4d23fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formAuthentication&quot;)/div[@class=&quot;mb-3 form-password-toggle&quot;]/div[@class=&quot;input-group input-group-merge&quot;]/span[@class=&quot;input-group-text cursor-pointer&quot;]/i[@class=&quot;bx bx-show&quot;]</value>
+      <webElementGuid>47be5112-372c-40aa-9715-8d82eece4ca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formAuthentication']/div[2]/div[2]/span/i</value>
+      <webElementGuid>55eb3083-2a3f-4b75-b1e2-6503b8f3465e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>4348c406-d978-442a-9b0e-a6d217855803</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

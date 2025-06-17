@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Cng ty TNHH HIMCOM</name>
+   <tag></tag>
+   <elementGuidId>a2eefb1d-244e-4bf0-b29a-76c7b29bbcc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.mt-1.mb-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='org_info']/div/div[3]/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4031f4a6-72d7-4032-b9a7-7cd30a3189a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1 mb-1</value>
+      <webElementGuid>24b7232f-0cbd-40b0-9925-6d84bff1a426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Công ty TNHH HIMCOM</value>
+      <webElementGuid>d479537a-5b7c-4b52-8fcd-99f2dc44f492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;org_info&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;org-input-wrap&quot;]/ul[1]/li[@class=&quot;mt-1 mb-1&quot;]</value>
+      <webElementGuid>7c782659-001a-4612-b6bd-b8aa67ca324d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='org_info']/div/div[3]/ul/li</value>
+      <webElementGuid>d8a256c2-b630-4ba1-ad58-da73296091ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organizations'])[2]/following::li[1]</value>
+      <webElementGuid>d2017e2b-3358-467e-9e9e-0630a47bc651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::li[1]</value>
+      <webElementGuid>5386a41f-340d-4373-9ef0-1c9ceffa3893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công ty TNHH MIBS'])[1]/preceding::li[1]</value>
+      <webElementGuid>2f7d1204-2aab-41bc-89ae-a3de519a544d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li</value>
+      <webElementGuid>1be0f92c-6425-40e3-989a-cace6b9f37a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Công ty TNHH HIMCOM' or . = 'Công ty TNHH HIMCOM')]</value>
+      <webElementGuid>588e1a6b-10c9-4092-82b8-20ee20d077d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

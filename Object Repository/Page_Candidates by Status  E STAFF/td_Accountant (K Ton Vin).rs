@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Accountant (K Ton Vin)</name>
+   <tag></tag>
+   <elementGuidId>4e68e960-27c7-40bf-8fc9-f2f13ed97351</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.td-truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f867ec87-bca7-4b26-bf8f-dbf8173a0295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>td-truncate</value>
+      <webElementGuid>491a435c-2679-49f5-926b-b0392492c46a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accountant (Kế Toán Viên)</value>
+      <webElementGuid>4bdd5270-6131-4306-85c8-d68a0e37f8e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[1]/td[@class=&quot;td-truncate&quot;]</value>
+      <webElementGuid>94dcace1-7812-4d5d-857e-cd332b4f601b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='example']/tbody/tr/td[3]</value>
+      <webElementGuid>7ba1b3be-3409-4133-9f65-58eb9a886818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MT'])[1]/following::td[1]</value>
+      <webElementGuid>16932903-6ac8-4b96-9d15-01685e9920ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential'])[1]/following::td[3]</value>
+      <webElementGuid>174c4e9a-1ad2-490f-88da-11567120b7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nguyễn Thị Minh Thu'])[1]/preceding::td[1]</value>
+      <webElementGuid>63aff3d1-0397-49c7-b4ea-1ef3e43aa47d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='thunguyen25122001@gmail.co'])[1]/preceding::td[2]</value>
+      <webElementGuid>7025959e-8b05-496a-9d1a-9cee3dcd0137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>c8a6bb3f-bdd6-4cb3-abc7-63489f5bdec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Accountant (Kế Toán Viên)' or . = 'Accountant (Kế Toán Viên)')]</value>
+      <webElementGuid>f97aee80-8120-452e-b3ea-3c9f31ecbdaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Processed</name>
+   <tag></tag>
+   <elementGuidId>42191932-50c8-4ed2-9520-5702d5bbb5a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Active'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>77574f46-ddc1-434b-bddf-455b1f3cb320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Processed
+                    </value>
+      <webElementGuid>96f8a8ab-6ee7-457d-b0be-5bf22957074e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;table-responsive text-nowrap pt-3&quot;]/table[@class=&quot;table table-hover&quot;]/tbody[@class=&quot;table-border-bottom-0&quot;]/tr[@class=&quot;text-nowrap&quot;]/td[5]</value>
+      <webElementGuid>da830f25-8d2f-4fe4-98cb-0af86c296bdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Active'])[1]/following::td[1]</value>
+      <webElementGuid>1c14a5cc-dff5-4083-99fd-6e80c3f0f891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PVM25 Shopper Incentive'])[1]/following::td[3]</value>
+      <webElementGuid>17d76147-66c1-4796-920a-af174b81c6a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy!'])[1]/preceding::td[1]</value>
+      <webElementGuid>1967eb11-9d07-4e9b-85c3-9945e720de14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>c6d879e7-d842-4a1f-9f6f-f4c89ce1742f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                        Processed
+                    ' or . = '
+                        Processed
+                    ')]</value>
+      <webElementGuid>69b24f06-a5fc-455a-a84d-9c17c2831485</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Copy_bx bx-dots-vertical-rounded</name>
+   <tag></tag>
+   <elementGuidId>594a382b-d14d-4218-b263-ba4d3ab84ac9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-dots-vertical-rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>765a3828-bfc2-451b-8098-f7ff5c04ab54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-dots-vertical-rounded</value>
+      <webElementGuid>cb111079-1531-4a6d-a408-15fe92643e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;table-responsive text-nowrap pt-3&quot;]/table[@class=&quot;table table-hover&quot;]/tbody[@class=&quot;table-border-bottom-0&quot;]/tr[@class=&quot;text-nowrap&quot;]/td[7]/div[@class=&quot;dropdown&quot;]/button[@class=&quot;btn p-0 dropdown-toggle hide-arrow&quot;]/i[@class=&quot;bx bx-dots-vertical-rounded&quot;]</value>
+      <webElementGuid>74bfd49f-eced-434f-9303-3410136d9740</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>e5d61571-f665-4ce8-a7c9-0d66d37fc6f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
