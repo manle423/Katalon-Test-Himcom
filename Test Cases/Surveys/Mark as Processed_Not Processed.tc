@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mark as Processed_Not Processed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05120b6b-8714-4774-ada8-375e3dd45bcf</testCaseGuid>
+</TestCaseEntity>

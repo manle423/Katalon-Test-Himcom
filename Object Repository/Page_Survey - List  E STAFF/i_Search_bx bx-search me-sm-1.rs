@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Search_bx bx-search me-sm-1</name>
+   <tag></tag>
+   <elementGuidId>ee6e2a44-2f28-4c64-a49b-d73f549082a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='datatable_limit']/div/div[2]/div/div[2]/button/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-search.me-sm-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>11279ebd-7e3a-49c2-9166-a6b1a84c50ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-search me-sm-1</value>
+      <webElementGuid>15138c55-a517-4e7d-aa5c-846db1df9f54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatable_limit&quot;)/div[@class=&quot;row px-3 py-3&quot;]/div[@class=&quot;col-sm-12 col-md-6 justify-content-center justify-content-md-end py-1 py-md-0&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-row&quot;]/button[@class=&quot;btn&quot;]/span[1]/i[@class=&quot;bx bx-search me-sm-1&quot;]</value>
+      <webElementGuid>5987b800-93f2-473a-895f-dbb85e9d9e2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='datatable_limit']/div/div[2]/div/div[2]/button/span/i</value>
+      <webElementGuid>599584ed-a4d1-42f6-887e-f861bf3f9007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/i</value>
+      <webElementGuid>f487fdb6-50b4-4803-b3da-9a794e78423b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

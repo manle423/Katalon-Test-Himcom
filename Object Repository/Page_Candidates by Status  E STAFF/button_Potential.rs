@@ -3,24 +3,18 @@
    <description></description>
    <name>button_Potential</name>
    <tag></tag>
-   <elementGuidId>caab9faf-8c30-4964-932d-38c9c059a9a2</elementGuidId>
+   <elementGuidId>b0067634-ff05-4b1f-9208-18701c7f79f6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//table[@id='example']/tbody/tr/td[10]/div/button[2]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.btn.btn-warning.btn-potential.btn-sm.me-1</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td[10]/div/button[2]</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=row[name=&quot;CT Store Leader Phạm Chí Thuận chithuan000@gmail.com 0903827012 10/05/2025 Prescreened Waiting Approve Potential Reject &quot;i] >> internal:role=button >> nth=1</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -29,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d3cd079b-2b48-4d73-88d2-93944a2a3b63</webElementGuid>
+      <webElementGuid>071b1e06-06cc-4b1f-bb41-02c86d60aaa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-warning btn-potential btn-sm me-1</value>
-      <webElementGuid>0f334e8f-e456-4cda-ad8e-8bbfdf5278d5</webElementGuid>
+      <webElementGuid>05bd7ff3-b447-4109-898b-53e252307885</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-candidate-id</name>
       <type>Main</type>
-      <value>10578</value>
-      <webElementGuid>2e08e8c3-6fed-4f9a-953c-5a655c67dee2</webElementGuid>
+      <value>10572</value>
+      <webElementGuid>709890f9-77d9-4f54-b050-515d5067aa70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Potential</value>
-      <webElementGuid>78eed76d-f1d2-46d7-8525-e016318cf12b</webElementGuid>
+      <webElementGuid>d55a2d1a-728c-4124-bf66-cd544fcd22c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;example&quot;)/tbody[1]/tr[1]/td[10]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;btn btn-warning btn-potential btn-sm me-1&quot;]</value>
-      <webElementGuid>e87714c7-b0e8-4b33-9a73-657b8f0fa075</webElementGuid>
+      <webElementGuid>91f444e3-4f78-4695-931f-bc9cb6feb8d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='example']/tbody/tr/td[10]/div/button[2]</value>
-      <webElementGuid>2fb50833-0a5b-440f-9cba-503fceb5b2dc</webElementGuid>
+      <webElementGuid>32ed2dd4-3420-44a3-a833-a7b9bd7331fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,15 +71,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[1]/following::button[1]</value>
-      <webElementGuid>f6ce71c3-a8f7-409c-a9bf-2541cdc3b70f</webElementGuid>
+      <webElementGuid>d3aff143-d015-4d67-b66c-a58a1878046d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waiting'])[2]/following::button[2]</value>
-      <webElementGuid>c1691761-d224-421f-8c5c-fb377fe2335f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[2]</value>
+      <webElementGuid>217fccf0-40c1-4811-89d3-bfdedf1db566</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[1]/preceding::button[1]</value>
-      <webElementGuid>13eef8bd-74b1-4256-b9c2-f92d896567a0</webElementGuid>
+      <webElementGuid>cd16fb11-7b03-4ac7-86a4-c310716d2500</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[10]/div/button[2]</value>
-      <webElementGuid>94d69650-f54a-4099-a820-534054aca18d</webElementGuid>
+      <webElementGuid>719671b6-4443-47c5-b752-cd824c74a23e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Potential' or . = 'Potential')]</value>
-      <webElementGuid>6d781dbf-ea7c-4f88-af4f-5c80e8f107e8</webElementGuid>
+      <webElementGuid>f1d4db07-2d99-4a83-af08-e82dd1da4621</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

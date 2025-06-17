@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Question Text_form-control</name>
+   <tag></tag>
+   <elementGuidId>835e772d-d25b-4fb2-9718-13a73d2b02ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='surveys']/div/div[2]/div/div/div/div/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-3.col-12 > div.form-group.mb-3 > textarea.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>79b00f2a-3b0e-43e1-a2eb-821f686e33a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>e351df25-7641-4784-acdd-5a1a01204da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>wire:model.live</name>
+      <type>Main</type>
+      <value>steps.0.0.text</value>
+      <webElementGuid>cf96cd19-97f3-4ced-a9b0-a813f437e8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;surveys&quot;)/div[@class=&quot;card mt-3&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;question-section&quot;]/div[@class=&quot;question-container row&quot;]/div[@class=&quot;mb-3 col-12&quot;]/div[@class=&quot;form-group mb-3&quot;]/textarea[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>72e39693-8f69-4d60-9e6f-e1e79459b821</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='surveys']/div/div[2]/div/div/div/div/textarea</value>
+      <webElementGuid>d3bc59ef-041b-468f-a145-484f1c0141bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/textarea</value>
+      <webElementGuid>0647ecaa-f6b6-4f70-845c-ea8b8d2707f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

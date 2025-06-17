@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Select a Job Postion</name>
    <tag></tag>
-   <elementGuidId>9f3db03d-ca33-4183-b2de-47e735b777bf</elementGuidId>
+   <elementGuidId>16ff0d71-f13d-40c8-ac7f-c8d5dbc7eef6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,16 +11,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='VNM.Sales Team Leader'])[1]/following::span[3]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Đóng'])[1]/following::span[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=combobox[name=&quot;Select a Job Postion&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -29,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9de50111-79cd-4457-b91a-448a0007f621</webElementGuid>
+      <webElementGuid>aeb50b39-b0a6-4fcd-ae72-f2c36cc1abdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection select2-selection--single</value>
-      <webElementGuid>994b18ec-6a4e-413d-9db4-e1a7e0264c0f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>select2-company_jobs-container</value>
-      <webElementGuid>9a996643-ed53-44c6-9ad5-03abb761ea1f</webElementGuid>
+      <webElementGuid>ad879dfd-d854-4dab-9a97-a86b87b7fff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,31 +39,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>ccd3525b-2726-4f07-be6e-76fc1afaf5fd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-readonly</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>9b7b47ab-f3c7-4391-acbd-bbb90dbb0077</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Select a Job Postion</value>
-      <webElementGuid>a8bcb2a5-f0d9-4eea-8345-15a8204da214</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>/html[@class=&quot;light-style layout-menu-fixed translated-ltr&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap-5 select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
-      <webElementGuid>41763430-d499-4833-a55b-548923ca8808</webElementGuid>
+      <webElementGuid>bfe1a4cc-3d3f-4016-a394-019013881636</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +47,15 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2e1535f5-1abb-4835-9d13-300be9ac8117</webElementGuid>
+      <webElementGuid>cd5074bd-edd9-4ed4-9517-738296493d64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-expanded</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>60c6941c-20a5-4799-8507-aae737c696ee</webElementGuid>
+      <value>true</value>
+      <webElementGuid>3a157d52-5922-4769-8134-d3e32d18c192</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +63,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6a456ded-676e-4410-bc9c-a49438ae0684</webElementGuid>
+      <webElementGuid>ee9111d6-4b7e-4ba1-84eb-5746d8517269</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +71,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2a13d813-d0e1-4746-9c1a-36c079be0bec</webElementGuid>
+      <webElementGuid>04ca64dd-a91b-4db1-9bca-2e17178fa027</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,23 +79,55 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>select2-job_position_id-container</value>
-      <webElementGuid>b46698b9-c48e-47ec-bf74-c8ca75b34fd4</webElementGuid>
+      <webElementGuid>8eabf207-70f2-44c8-9fe9-959056de9181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-owns</name>
+      <type>Main</type>
+      <value>select2-job_position_id-results</value>
+      <webElementGuid>3b3de75b-1cba-4124-8c85-ccfcc846c92a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-activedescendant</name>
+      <type>Main</type>
+      <value>select2-job_position_id-result-j2oj-12</value>
+      <webElementGuid>55199cda-56b0-4032-afee-110a207252cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a Job Postion</value>
+      <webElementGuid>4df258d1-5536-4808-9103-1c2dc53a40d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap-5 select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
+      <webElementGuid>15a2bc7a-be68-467c-9722-1911a95ac264</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='VNM.Sales Team Leader'])[1]/following::span[3]</value>
-      <webElementGuid>9985fe3f-441d-4c72-b032-342030ea574d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đóng'])[1]/following::span[3]</value>
+      <webElementGuid>322a046b-6fa1-43c8-a922-31199ca02d84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='VNM.Customer Service Officer (CS)'])[1]/following::span[3]</value>
-      <webElementGuid>4871a196-b9a0-4117-b859-77fefe4a5c68</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed detail imported'])[1]/following::span[3]</value>
+      <webElementGuid>0967e0a7-c95d-401e-af20-5be006659f00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::span[5]</value>
-      <webElementGuid>2d67c4d7-1355-40ff-9321-80dc2320da39</webElementGuid>
+      <webElementGuid>968cb1a7-824c-422e-8df0-65ef4955822d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span</value>
-      <webElementGuid>902d2145-ac4e-42f5-96cd-4d99c26f98a0</webElementGuid>
+      <webElementGuid>a9db8658-4a60-4551-883b-522c5e389b99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,62 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Select a Job Postion' or . = 'Select a Job Postion')]</value>
-      <webElementGuid>dd7260e9-84cb-4123-a3b8-ea44272f912d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//span[@id='select2-company_jobs-container']</value>
-      <webElementGuid>96a892c9-d755-4100-86b1-ea7ef52be23e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='importModal']/div/div/form/div/div[2]/span/span/span/span</value>
-      <webElementGuid>30e841ab-33ae-4ab1-94d8-e6885ca92334</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose CV File'])[1]/following::span[4]</value>
-      <webElementGuid>3bb326e5-d694-41db-8210-2ac61b983d51</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import CV'])[1]/following::span[4]</value>
-      <webElementGuid>835442f8-2405-4e9b-ae38-e1efd0b2018b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::span[4]</value>
-      <webElementGuid>a4fb7b5f-d8b3-4313-aad4-e46d57db6967</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/span/span/span/span</value>
-      <webElementGuid>16555fd8-d71f-443a-9e8c-50f4658437e4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[@id = 'select2-company_jobs-container' and (text() = 'Select a Job Postion' or . = 'Select a Job Postion')]</value>
-      <webElementGuid>5244b2d8-3c7a-439a-b0e9-5bc7fe6e6c25</webElementGuid>
+      <webElementGuid>6ccdd17b-e52b-4fc1-8a72-7c35e2291b7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

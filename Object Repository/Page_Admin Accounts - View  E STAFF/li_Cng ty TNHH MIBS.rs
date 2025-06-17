@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Cng ty TNHH MIBS</name>
+   <tag></tag>
+   <elementGuidId>ffdca369-2432-4af0-bcdd-2959e2528246</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='org_info']/div/div[3]/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3e58ef0e-4290-4113-9d67-38e1c03d697c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1 mb-1</value>
+      <webElementGuid>f8fcae87-4c0f-411b-9b91-da4a51691e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Công ty TNHH MIBS</value>
+      <webElementGuid>150f6943-ae3a-4e2a-b07d-48bcaf913174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;org_info&quot;)/div[@class=&quot;card-body&quot;]/div[@class=&quot;org-input-wrap&quot;]/ul[1]/li[@class=&quot;mt-1 mb-1&quot;]</value>
+      <webElementGuid>121468a1-706b-44bb-ad30-c186a35052d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='org_info']/div/div[3]/ul/li[2]</value>
+      <webElementGuid>a7210aaf-fdf1-4ea9-98f8-a29c0e434c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công ty TNHH HIMCOM'])[1]/following::li[1]</value>
+      <webElementGuid>dfa2921f-9783-4dfa-b0af-76aa462c9b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organizations'])[2]/following::li[2]</value>
+      <webElementGuid>8c8ad1c0-7bc6-449a-9901-50491135ea25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Given Permissions'])[1]/preceding::li[1]</value>
+      <webElementGuid>342c0dd0-f70f-4b41-9a4b-533e9724c57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]</value>
+      <webElementGuid>0da9d891-cadf-41b9-bbd9-9d9295353fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Công ty TNHH MIBS' or . = 'Công ty TNHH MIBS')]</value>
+      <webElementGuid>8cae47cb-3647-49c3-846e-6c71d52a205b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

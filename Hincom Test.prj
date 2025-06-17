@@ -6,12 +6,12 @@
    <UUID>5962ac8c-18bc-4524-aefa-66415a1107ab</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.2.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.2.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\Work\Katalon\Katalon-Test-Himcom\Hincom Test.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\Admin\git\Katalon-Test-Himcom\Hincom Test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

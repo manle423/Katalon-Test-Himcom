@@ -3,24 +3,18 @@
    <description></description>
    <name>button_Filter</name>
    <tag></tag>
-   <elementGuidId>6973c113-e7ed-4714-9224-7e9f04086f81</elementGuidId>
+   <elementGuidId>a7ec9a00-2a25-47de-8567-98ce44a9b2a7</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@type='submit']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.btn.btn-primary</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Filter&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -29,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c7aab7b4-2c3b-4040-a44c-7f74c7636064</webElementGuid>
+      <webElementGuid>d25d4b70-9642-4c52-85b6-33b7eec906de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>9765fe44-eb59-44af-bfb3-d27999f35e78</webElementGuid>
+      <webElementGuid>46078f99-6d3e-403d-8150-a7009b7ef4ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>0294a856-a923-4dfc-8c54-b4fd1c4f7c1a</webElementGuid>
+      <webElementGuid>a37785ba-2b74-4e62-899d-775fe2a568c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Filter</value>
-      <webElementGuid>a57fc474-8f50-4a74-be47-aad59b0148a1</webElementGuid>
+      <webElementGuid>1bf1f7b2-bb6c-4a3c-8283-03e3296c5cdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/button[@class=&quot;btn btn-primary&quot;]</value>
-      <webElementGuid>1ed8793f-5aa2-413b-ad68-864c0e7bf61f</webElementGuid>
+      <webElementGuid>ee637486-266a-47b1-9464-6ed9e71eac34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>bac57f5c-cef4-40a4-9179-7944197951ab</webElementGuid>
+      <webElementGuid>7e19f24f-bab7-42f5-9c81-9c2e0dfc7144</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a Job Postion'])[1]/following::button[1]</value>
-      <webElementGuid>c4a5cc78-a81e-4441-b57f-5927e09f2050</webElementGuid>
+      <webElementGuid>13a8fd05-240b-4cf7-8d55-e08c7c4b6ac0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đóng'])[1]/following::button[1]</value>
-      <webElementGuid>9bb436a7-616e-4533-aed8-f6d2cbdcda3b</webElementGuid>
+      <webElementGuid>c1257495-3816-4224-b016-3cb52c8d83b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::button[1]</value>
-      <webElementGuid>d0cd1390-425a-46a2-a1ed-35af54f71297</webElementGuid>
+      <webElementGuid>67a5e628-0773-4abf-ba2a-edef394d8837</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applied'])[1]/preceding::button[1]</value>
-      <webElementGuid>0ce992bd-c400-4036-b068-d065a55df8ff</webElementGuid>
+      <webElementGuid>41d6256b-0fc7-4bfd-827d-1e5edaf33dee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Filter']/parent::*</value>
-      <webElementGuid>76197caf-14af-464f-a0d2-a2e1ef31395a</webElementGuid>
+      <webElementGuid>01511ef7-7c93-470b-9236-1c405d0ffe75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/button</value>
-      <webElementGuid>2ce73b0b-5681-4ef2-88e1-cc3d1c9688e2</webElementGuid>
+      <webElementGuid>4bca2871-1a66-457d-9ff8-facc089e6327</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +119,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Filter' or . = 'Filter')]</value>
-      <webElementGuid>f16d8ebf-4c0f-4368-ac08-3119502933b2</webElementGuid>
+      <webElementGuid>9a2cdd15-8840-4185-9529-9a21ff115e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIM.Accountant (Kế Toán Viên)'])[2]/following::button[1]</value>
+      <webElementGuid>11503efc-2d81-441a-b4af-fbcc0df54e72</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

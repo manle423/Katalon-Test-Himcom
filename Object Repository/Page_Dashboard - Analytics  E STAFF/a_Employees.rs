@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Employees</name>
    <tag></tag>
-   <elementGuidId>d1d7680d-571f-4919-852c-def8e6d2f188</elementGuidId>
+   <elementGuidId>92f254b4-84e0-4a9d-867f-9c2872680443</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -15,12 +15,6 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Employees&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -29,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>97b84c32-1c45-475a-96de-d80121ca17bc</webElementGuid>
+      <webElementGuid>35cabdcf-6954-4bf7-b47a-d4cbe4a7b3c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>194124e0-45e1-4c6b-91c4-715c052a039b</webElementGuid>
+      <webElementGuid>ccb8db12-26dc-4525-a6fb-aec56555dd54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-link menu-toggle</value>
-      <webElementGuid>2b598e1a-f110-4557-8b31-55612c139ec9</webElementGuid>
+      <webElementGuid>9aa4930d-c2f1-429e-a5a3-3aed6320129c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,15 +50,15 @@
                             
                             Employees
                           </value>
-      <webElementGuid>1d4af00b-a661-46b5-88ae-a62122071d12</webElementGuid>
+      <webElementGuid>b526db4f-36b0-4d79-ada2-2c54d06e9496</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link menu-toggle&quot;]</value>
-      <webElementGuid>f2c20454-99af-4cca-b24a-f41f0def4e64</webElementGuid>
+      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps ps--active-y&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link menu-toggle&quot;]</value>
+      <webElementGuid>653cd931-5a22-4e9b-b289-d0f832971e27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='layout-menu']/ul/li[10]/a</value>
-      <webElementGuid>99616682-5aa6-40d8-9f97-6a26908250bd</webElementGuid>
+      <webElementGuid>c0e7a5fa-9455-4fdc-8fdd-e3f0fee70eb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Banks'])[1]/following::a[1]</value>
-      <webElementGuid>8cff97cf-06d5-4b40-a90d-c87a42525a7c</webElementGuid>
+      <webElementGuid>4a2b6f4f-f79d-4862-8baa-95e818228903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinces'])[1]/following::a[2]</value>
-      <webElementGuid>dfdde208-cfd2-45d5-bdd7-73e2d21c68c4</webElementGuid>
+      <webElementGuid>d3873e95-6657-4ca0-b2f1-a3567b0f3f66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='General Information'])[1]/preceding::a[1]</value>
-      <webElementGuid>dfa92bf0-ca4d-47e6-8192-66f9732737b9</webElementGuid>
+      <webElementGuid>16333b45-4609-4d7b-9097-c8950a3e42b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +98,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[5]</value>
-      <webElementGuid>effcc30a-20a5-4791-a83f-338cb420cd5f</webElementGuid>
+      <webElementGuid>d2b776eb-0f7a-4bca-8156-b4d277969c27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[10]/a</value>
-      <webElementGuid>6f64650a-3758-49f4-acfc-e33ebfff4790</webElementGuid>
+      <webElementGuid>6b591ab9-3380-450e-abda-141bbe6bbb16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +120,46 @@
                             
                             Employees
                           ')]</value>
-      <webElementGuid>5ee35e2e-ad56-44e5-a44f-74d2a98941fc</webElementGuid>
+      <webElementGuid>3447a585-38f8-4e74-ac0c-11376ecd0438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='layout-menu']/ul/li[4]/a</value>
+      <webElementGuid>f8952e6e-6167-43a6-bbca-18e74e389c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Industries'])[1]/following::a[1]</value>
+      <webElementGuid>9e7ab89f-3b73-43c1-9145-c6bf83800ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skills'])[1]/following::a[2]</value>
+      <webElementGuid>d605b043-5998-4be4-9811-9edc7ea075db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[4]</value>
+      <webElementGuid>d93479d3-543a-40bc-9d8c-33d67efba881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>7fcacf13-af03-481b-9f55-cb752f143f30</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

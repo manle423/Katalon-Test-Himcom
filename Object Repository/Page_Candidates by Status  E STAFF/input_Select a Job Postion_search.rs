@@ -3,24 +3,18 @@
    <description></description>
    <name>input_Select a Job Postion_search</name>
    <tag></tag>
-   <elementGuidId>6e9606eb-75cb-48ca-ba5a-35232b36df5b</elementGuidId>
+   <elementGuidId>20c89464-d2b5-4992-a65a-5334831e04ce</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='search']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;search&quot;]</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='search']</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
-   <smartLocatorCollection>
-      <entry>
-         <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Search by name, email, or phone&quot;i]</value>
-      </entry>
-   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -29,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a166b512-6ae6-4962-9dad-e92019b00213</webElementGuid>
+      <webElementGuid>04b4980c-2098-48ef-98f7-dfd93393dc07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>ecc83845-b935-4fd3-b58e-db41624f0ffe</webElementGuid>
+      <webElementGuid>c43b3f56-00d4-49d8-b07b-bad0f19d28a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>30736383-aa33-45a4-9ab4-d82ffaa8667c</webElementGuid>
+      <webElementGuid>1934bc03-7f21-4e21-af3e-167dee82f348</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>b41f41d5-3285-4fc1-94dd-5a6b69206085</webElementGuid>
+      <webElementGuid>de934eb5-3b71-4aae-b0f5-3b98ff834b27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +55,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search by name, email, or phone</value>
-      <webElementGuid>31a71871-c7ea-40ee-8a90-392aa12f62d1</webElementGuid>
+      <webElementGuid>c12d6217-f7bb-43c5-8844-dbc89a3381a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>nguyễn hồng nga</value>
+      <webElementGuid>35239f69-d275-48be-83a9-f71b1492787e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>5600c77c-7d25-4726-98e5-2eba1c4c1cf8</webElementGuid>
+      <webElementGuid>f3beb7ba-6d5b-45a8-9d72-b20627eb2120</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='search']</value>
-      <webElementGuid>fac0124d-12c3-41a4-aa57-2beb91b7dd51</webElementGuid>
+      <webElementGuid>807589db-7433-4b5b-9643-0bccaffe8353</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>f29f24f3-4248-441a-87f1-002b51180903</webElementGuid>
+      <webElementGuid>810aacb6-4b9d-4f91-9869-b1f6028ca280</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'search' and @placeholder = 'Search by name, email, or phone']</value>
-      <webElementGuid>50f8d00a-1b78-4f6f-be26-315a16adcc11</webElementGuid>
+      <webElementGuid>80a4e24c-7ab5-42fd-93a9-91baf50f2845</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

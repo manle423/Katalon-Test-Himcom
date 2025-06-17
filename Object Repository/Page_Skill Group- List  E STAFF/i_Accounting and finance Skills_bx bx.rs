@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Accounting and finance Skills_bx bx-dots-vertical-rounded</name>
+   <name>i_Accounting and finance Skills_bx bx</name>
    <tag></tag>
    <elementGuidId>f867e1fa-d566-4932-8d5c-4c4ebcf7d0df</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.bx.bx-dots-vertical-rounded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
