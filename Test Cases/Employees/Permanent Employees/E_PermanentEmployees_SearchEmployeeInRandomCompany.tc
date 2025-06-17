@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_PermanentEmployees_SearchEmployeeInRandomCompany</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44321139-348e-47f2-8268-a9a0e3e7ceaa</testCaseGuid>
+</TestCaseEntity>

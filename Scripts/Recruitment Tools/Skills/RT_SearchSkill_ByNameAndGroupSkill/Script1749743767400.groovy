@@ -21,5 +21,9 @@ CustomKeywords.'custom.keywords.NavigationActions.navigateToSkills'()
 
 WebUI.setText(findTestObject('Page_Skill - List  E STAFF/input_List of skills_search'), 'Computer')
 
-WebUI.click(findTestObject('Page_Skill - List  E STAFF/select_All Skill Groups'))
+WebUI.selectOptionByLabel(findTestObject('Page_Skill - List  E STAFF/select_All Skill Groups'), 'Computer Skills', false)
+
+WebUI.click(findTestObject('Page_Skill - List  E STAFF/button_Search'))
+
+WebUI.verifyTextPresent('Computer', false)
 

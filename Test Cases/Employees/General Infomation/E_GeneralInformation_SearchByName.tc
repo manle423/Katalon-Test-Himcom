@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_GeneralInformation_SearchByName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aeb3d3c4-056d-4c3a-bd88-15a9f5f392cd</testCaseGuid>
+</TestCaseEntity>

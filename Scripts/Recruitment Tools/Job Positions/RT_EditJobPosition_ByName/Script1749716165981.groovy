@@ -32,3 +32,5 @@ WebUI.click(findTestObject('Page_Edit Job Position  E STAFF/button_Submit'))
 
 WebUI.verifyTextPresent('Job position updated successfully.', false)
 
+WebUI.closeBrowser()
+

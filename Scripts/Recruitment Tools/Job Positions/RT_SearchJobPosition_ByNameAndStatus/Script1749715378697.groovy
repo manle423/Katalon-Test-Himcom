@@ -30,3 +30,5 @@ WebUI.verifyTextPresent('HIM', false)
 
 WebUI.verifyTextPresent('On-going', false)
 
+WebUI.closeBrowser()
+

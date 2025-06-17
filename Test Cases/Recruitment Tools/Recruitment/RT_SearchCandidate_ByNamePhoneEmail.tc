@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_SearchCandidate_ByNamePhoneEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6633d61f-0b2e-49a3-b6c6-737f43f0040a</testCaseGuid>
+</TestCaseEntity>

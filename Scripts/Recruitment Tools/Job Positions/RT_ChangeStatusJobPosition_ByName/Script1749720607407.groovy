@@ -21,20 +21,17 @@ String jobName = 'PVM Vietnam1.Thừa Thiên Huế.test1'
 
 CustomKeywords.'custom.keywords.NavigationActions.navigateToJobPositions'()
 
-WebUI.waitForElementVisible(findTestObject(
-    'Page_Job Positions - List  E STAFF/button_MoreOptions_ByJobName',
-    ['jobName': jobName]), 10)
+WebUI.waitForElementVisible(findTestObject('Page_Job Positions - List  E STAFF/button_MoreOptions_ByJobName', [('jobName') : jobName]), 
+    10)
 
-WebUI.click(findTestObject(
-    'Page_Job Positions - List  E STAFF/button_MoreOptions_ByJobName',
-    ['jobName': jobName]))
+WebUI.click(findTestObject('Page_Job Positions - List  E STAFF/button_MoreOptions_ByJobName', [('jobName') : jobName]))
 
-WebUI.waitForElementClickable(findTestObject(
-    'Page_Job Positions - List  E STAFF/button_ToggleStatus_JobPosition_ByJobName',
-    ['jobName': jobName]), 10)
+WebUI.waitForElementClickable(findTestObject('Page_Job Positions - List  E STAFF/button_ToggleStatus_JobPosition_ByJobName', 
+        [('jobName') : jobName]), 10)
 
-WebUI.click(findTestObject(
-    'Page_Job Positions - List  E STAFF/button_ToggleStatus_JobPosition_ByJobName',
-    ['jobName': jobName]))
+WebUI.click(findTestObject('Page_Job Positions - List  E STAFF/button_ToggleStatus_JobPosition_ByJobName', [('jobName') : jobName]))
 
 WebUI.verifyTextPresent('Job position status updated successfully.', false)
+
+WebUI.closeBrowser()
+

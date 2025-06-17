@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_PermanentEmployees_CheckFilterByOrg</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4bf14b3-fb04-4ce9-978d-cc3db0c3f79f</testCaseGuid>
+</TestCaseEntity>

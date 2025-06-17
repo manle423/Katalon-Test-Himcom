@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E_TemporaryEmployees_CheckShowEntries</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa081d17-8015-47a8-b162-519816c9d27d</testCaseGuid>
+</TestCaseEntity>
