@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Choose an organizationTesting for He_e4d2d0</name>
+   <tag></tag>
+   <elementGuidId>7b104f49-14c0-4517-a58c-661dff7faf7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;workshift[2][organization]&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='workshift[2][organization]']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c60b531f-a052-48e5-bfb2-587a3e8a87cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control workshift-organization</value>
+      <webElementGuid>9f0a8799-d372-4523-a1fd-824233a23ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>workshift[2][organization]</value>
+      <webElementGuid>44a848f4-a156-4b3a-9a93-e4edfce15d52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose an organizationTesting for HerbalifeSony Cafe Activation SS2 | Project_HeadphoneHerbalife QSP | Bến Tre_17/04/2024Herbalife QSP | Bình Dương_19/04/2024Herbalife QSP | Đà Nẵng_26/04/2024Sony Cafe Activation SS3 | Project_PlaystaytionSony Cafe Activation SS3 | Project_HeadphoneSony Cafe Activation SS3 | Project_CameraHerbalife QSP | Vĩnh Long_17/05/2024Herbalife QSP | Bảo Lộc_22/05/2024Swire GM Meeting | Hà Nội_Merchandiser_21.05-07.06Swire GM Meeting | Hà Nội_PG&amp;PB Activation_06.06-07.06Coke LKA | Đà Nẵng_Merchandiser &amp; PG/PBVinamilk SDD Phase 1_15&amp;16/06/2024Herbalife QSP | Cần Thơ_27/06/2024Herbalife QSP | Đà Lạt_07/07/2024Honey Bee Sampling_07/2024Vinamilk SDD Phase 2_06&amp;07/07/2024DA24_VNM_08AUDIT | Mystery Shoppers Đợt 1Herbalife QSP | Huế_28/08/2024Herbalife QSP | Bảo Lộc_24/09/2024Herbalife QSP | Buôn Ma Thuột_20/09/2024Herbalife QSP | Tây Ninh_27/09/2024DA24_COKE_09MT | PG Inline Coca 13/09-13/12/2024DA24_VNM_08AUDIT | Mystery Shoppers Đợt 2Sony Cafe Activation SS4 | Project_CameraDA24_VNM_CHECKOOS | VNM Audit MTDA25_PVM_PGTET | North_PG Inline NgọtDA25_PVM_PGTET | North_PG &amp; PB Kẹo XáDA25_PVM_PGTET | CP_PG &amp; PB Kẹo XáDA25_PVM_PGTET | CP_PG Inline NgọtDA25_PVM_PGTET | SP_PVM PG Inline NgọtDA25_PVM_PGTET | SP_PG &amp; PB Kẹo XáDA25_PVM_PGTET | Mekong_PG &amp; PB Kẹo XáDA25_PVM_PGTET | Mekong_PG Inline NgọtDA25_PVM_PGTET | HCM_PG Inline NgọtDA25_PVM_PGTET | HCM_PG &amp; PB Kẹo XáHerbalife QSP | Bình Dương_15/01/2025DA25_PVM_PGTET | North_QCDA25_PVM_PGTET | CP_QCDA25_PVM_PGTET | SP_QCDA25_PVM_PGTET | Mekong_QCDA25_PVM_PGTET | HCM_QCMộc Châu Milk | Milk Fair 03/2025Bizman Sky CL Thời VụHerbalife QSP | Đà Nẵng_21/03/2025Herbalife QSP | Đồng Nai_25/03/2025HBL QSPHerbalife QSP | Cần Thơ_16/04/2025test</value>
+      <webElementGuid>be95bb64-dada-46d1-a2a1-cae57fb5fcfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;workshift-2&quot;)/td[@class=&quot;px-4 pb-2&quot;]/div[1]/select[@class=&quot;form-control workshift-organization&quot;]</value>
+      <webElementGuid>89ca20e6-dc75-40db-8bb8-8e187154df3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='workshift[2][organization]']</value>
+      <webElementGuid>45480c2a-5bb6-47bc-803c-2dc158ff0ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='workshift-2']/td/div/select</value>
+      <webElementGuid>e28e80a7-50f5-418a-90a0-716e3ff5c5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/following::select[2]</value>
+      <webElementGuid>85fd0daf-4f50-4a52-ac16-3ece8e1e01f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::select[2]</value>
+      <webElementGuid>0b0ee487-598b-418d-96c3-f95846438fd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::select[1]</value>
+      <webElementGuid>fd954286-8fce-4806-989e-1c9b5ff30ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/select</value>
+      <webElementGuid>f9b642a5-3d1a-42cc-aa12-e99be5c8ecc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'workshift[2][organization]' and (text() = 'Choose an organizationTesting for HerbalifeSony Cafe Activation SS2 | Project_HeadphoneHerbalife QSP | Bến Tre_17/04/2024Herbalife QSP | Bình Dương_19/04/2024Herbalife QSP | Đà Nẵng_26/04/2024Sony Cafe Activation SS3 | Project_PlaystaytionSony Cafe Activation SS3 | Project_HeadphoneSony Cafe Activation SS3 | Project_CameraHerbalife QSP | Vĩnh Long_17/05/2024Herbalife QSP | Bảo Lộc_22/05/2024Swire GM Meeting | Hà Nội_Merchandiser_21.05-07.06Swire GM Meeting | Hà Nội_PG&amp;PB Activation_06.06-07.06Coke LKA | Đà Nẵng_Merchandiser &amp; PG/PBVinamilk SDD Phase 1_15&amp;16/06/2024Herbalife QSP | Cần Thơ_27/06/2024Herbalife QSP | Đà Lạt_07/07/2024Honey Bee Sampling_07/2024Vinamilk SDD Phase 2_06&amp;07/07/2024DA24_VNM_08AUDIT | Mystery Shoppers Đợt 1Herbalife QSP | Huế_28/08/2024Herbalife QSP | Bảo Lộc_24/09/2024Herbalife QSP | Buôn Ma Thuột_20/09/2024Herbalife QSP | Tây Ninh_27/09/2024DA24_COKE_09MT | PG Inline Coca 13/09-13/12/2024DA24_VNM_08AUDIT | Mystery Shoppers Đợt 2Sony Cafe Activation SS4 | Project_CameraDA24_VNM_CHECKOOS | VNM Audit MTDA25_PVM_PGTET | North_PG Inline NgọtDA25_PVM_PGTET | North_PG &amp; PB Kẹo XáDA25_PVM_PGTET | CP_PG &amp; PB Kẹo XáDA25_PVM_PGTET | CP_PG Inline NgọtDA25_PVM_PGTET | SP_PVM PG Inline NgọtDA25_PVM_PGTET | SP_PG &amp; PB Kẹo XáDA25_PVM_PGTET | Mekong_PG &amp; PB Kẹo XáDA25_PVM_PGTET | Mekong_PG Inline NgọtDA25_PVM_PGTET | HCM_PG Inline NgọtDA25_PVM_PGTET | HCM_PG &amp; PB Kẹo XáHerbalife QSP | Bình Dương_15/01/2025DA25_PVM_PGTET | North_QCDA25_PVM_PGTET | CP_QCDA25_PVM_PGTET | SP_QCDA25_PVM_PGTET | Mekong_QCDA25_PVM_PGTET | HCM_QCMộc Châu Milk | Milk Fair 03/2025Bizman Sky CL Thời VụHerbalife QSP | Đà Nẵng_21/03/2025Herbalife QSP | Đồng Nai_25/03/2025HBL QSPHerbalife QSP | Cần Thơ_16/04/2025test' or . = 'Choose an organizationTesting for HerbalifeSony Cafe Activation SS2 | Project_HeadphoneHerbalife QSP | Bến Tre_17/04/2024Herbalife QSP | Bình Dương_19/04/2024Herbalife QSP | Đà Nẵng_26/04/2024Sony Cafe Activation SS3 | Project_PlaystaytionSony Cafe Activation SS3 | Project_HeadphoneSony Cafe Activation SS3 | Project_CameraHerbalife QSP | Vĩnh Long_17/05/2024Herbalife QSP | Bảo Lộc_22/05/2024Swire GM Meeting | Hà Nội_Merchandiser_21.05-07.06Swire GM Meeting | Hà Nội_PG&amp;PB Activation_06.06-07.06Coke LKA | Đà Nẵng_Merchandiser &amp; PG/PBVinamilk SDD Phase 1_15&amp;16/06/2024Herbalife QSP | Cần Thơ_27/06/2024Herbalife QSP | Đà Lạt_07/07/2024Honey Bee Sampling_07/2024Vinamilk SDD Phase 2_06&amp;07/07/2024DA24_VNM_08AUDIT | Mystery Shoppers Đợt 1Herbalife QSP | Huế_28/08/2024Herbalife QSP | Bảo Lộc_24/09/2024Herbalife QSP | Buôn Ma Thuột_20/09/2024Herbalife QSP | Tây Ninh_27/09/2024DA24_COKE_09MT | PG Inline Coca 13/09-13/12/2024DA24_VNM_08AUDIT | Mystery Shoppers Đợt 2Sony Cafe Activation SS4 | Project_CameraDA24_VNM_CHECKOOS | VNM Audit MTDA25_PVM_PGTET | North_PG Inline NgọtDA25_PVM_PGTET | North_PG &amp; PB Kẹo XáDA25_PVM_PGTET | CP_PG &amp; PB Kẹo XáDA25_PVM_PGTET | CP_PG Inline NgọtDA25_PVM_PGTET | SP_PVM PG Inline NgọtDA25_PVM_PGTET | SP_PG &amp; PB Kẹo XáDA25_PVM_PGTET | Mekong_PG &amp; PB Kẹo XáDA25_PVM_PGTET | Mekong_PG Inline NgọtDA25_PVM_PGTET | HCM_PG Inline NgọtDA25_PVM_PGTET | HCM_PG &amp; PB Kẹo XáHerbalife QSP | Bình Dương_15/01/2025DA25_PVM_PGTET | North_QCDA25_PVM_PGTET | CP_QCDA25_PVM_PGTET | SP_QCDA25_PVM_PGTET | Mekong_QCDA25_PVM_PGTET | HCM_QCMộc Châu Milk | Milk Fair 03/2025Bizman Sky CL Thời VụHerbalife QSP | Đà Nẵng_21/03/2025Herbalife QSP | Đồng Nai_25/03/2025HBL QSPHerbalife QSP | Cần Thơ_16/04/2025test')]</value>
+      <webElementGuid>d01afceb-be03-4abc-9428-0942f8f2e1e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

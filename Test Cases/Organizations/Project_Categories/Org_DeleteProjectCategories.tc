@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Org_DeleteProjectCategories</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f10834e-8312-4b36-91e7-66b75ffbf4fd</testCaseGuid>
+</TestCaseEntity>

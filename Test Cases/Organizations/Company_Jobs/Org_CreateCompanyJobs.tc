@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Org_CreateCompanyJobs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a1ba442-3616-466b-87a6-e52f464fea1b</testCaseGuid>
+</TestCaseEntity>

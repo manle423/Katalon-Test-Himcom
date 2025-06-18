@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Org_DeleteWorkshift</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42aebc81-5b30-4567-bb78-8ea8510f2d32</testCaseGuid>
+</TestCaseEntity>

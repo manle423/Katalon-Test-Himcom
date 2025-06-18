@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_End Date_bx bx-trash me-1 fs-4 delete-workshift</name>
+   <tag></tag>
+   <elementGuidId>b7776e9c-f376-4032-b644-57b71cb247ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#workshift-2 > td.px-4.pb-2 > div.delete-container > i.bx.bx-trash.me-1.fs-4.delete-workshift</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='workshift-2']/td[5]/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4efbdd1f-9623-4219-9c6b-0004dcb83de7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-trash me-1 fs-4 delete-workshift</value>
+      <webElementGuid>385acc7e-6501-4ad2-a22c-429893eb1b3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;workshift-2&quot;)/td[@class=&quot;px-4 pb-2&quot;]/div[@class=&quot;delete-container&quot;]/i[@class=&quot;bx bx-trash me-1 fs-4 delete-workshift&quot;]</value>
+      <webElementGuid>8ee11c01-5e01-44c4-a96f-130fa93b6fdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='workshift-2']/td[5]/div/i</value>
+      <webElementGuid>6eb2bf22-f6e6-4bc6-baec-fa2e8e3cf950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/div/i</value>
+      <webElementGuid>a01c6d80-4aa1-4eb3-a3d7-4c7eba38b429</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

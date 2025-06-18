@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Company cant have categories</name>
+   <tag></tag>
+   <elementGuidId>6bb78831-b9b4-4a3e-bcdc-6522cadc3e3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.fs-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='blank-cat']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a553a000-b604-40c3-9d64-f688e5d02daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-5</value>
+      <webElementGuid>98570666-c72d-42cc-bf5e-1ac14d4aad30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Company can't have categories</value>
+      <webElementGuid>80ae5a1a-e226-4692-b125-15d2a2d2f211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;blank-cat&quot;)/p[@class=&quot;fs-5&quot;]</value>
+      <webElementGuid>c4819568-2549-41fa-90c8-4cb4409a30d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='blank-cat']/p</value>
+      <webElementGuid>792c4208-2c81-4128-8abc-9b4dba30316b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='category 2'])[1]/following::p[1]</value>
+      <webElementGuid>b3273dce-1c93-4f2e-a5e5-83a4d4bbd41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test add cate'])[1]/following::p[1]</value>
+      <webElementGuid>b541b0dc-273c-4cdc-89a2-711253ff479a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::p[1]</value>
+      <webElementGuid>3b5e3d47-df8d-4f2a-9fe6-22ed1668f105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Document 1'])[1]/preceding::p[1]</value>
+      <webElementGuid>b14f9a87-2c93-4b7c-935b-fb749d4e87d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>d39a9945-0f45-4c13-bbcc-3a32ad8b1e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Company can&quot; , &quot;'&quot; , &quot;t have categories&quot;) or . = concat(&quot;Company can&quot; , &quot;'&quot; , &quot;t have categories&quot;))]</value>
+      <webElementGuid>84428676-bb4a-4981-abc5-4c72652dc3b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

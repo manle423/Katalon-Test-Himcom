@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Shortname when select type: Organizations, Projects, MIBS_iRED</description>
+   <name>Org_CreateOrganizationsProjects_VerifyShortName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>81055a0c-f71b-4568-9c72-0c99efae2bce</testCaseGuid>
+</TestCaseEntity>

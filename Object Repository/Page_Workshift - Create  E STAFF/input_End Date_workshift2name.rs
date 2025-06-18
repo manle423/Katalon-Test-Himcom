@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_End Date_workshift2name</name>
+   <tag></tag>
+   <elementGuidId>23f4cae0-ab40-4b8c-8769-72235d4a3a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;workshift[2][name]&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='workshift[2][name]']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0bcb67d8-a3d2-4e2f-a94f-00e11767595f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>workshift[2][name]</value>
+      <webElementGuid>62626598-9886-4a95-8153-d1c3a8829203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control workshift-organization</value>
+      <webElementGuid>baaecbad-2563-4f62-b84c-c208ee5e6a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;workshift-2&quot;)/td[@class=&quot;px-4 pb-2&quot;]/div[1]/input[@class=&quot;form-control workshift-organization&quot;]</value>
+      <webElementGuid>5fc959eb-32ec-496b-bc3b-4fdb2c25bff4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='workshift[2][name]']</value>
+      <webElementGuid>e0c72c8b-09bf-460f-851c-ddb3d0a9af68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='workshift-2']/td[2]/div/input</value>
+      <webElementGuid>7dc03d6a-29f9-44d7-aed0-27086329da35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/div/input</value>
+      <webElementGuid>94436d04-0989-4ef7-91b6-dd948285088d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'workshift[2][name]']</value>
+      <webElementGuid>5061b154-542f-4e7d-9cf6-c283faf63c62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

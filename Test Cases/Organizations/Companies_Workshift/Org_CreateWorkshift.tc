@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Org_CreateWorkshift</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45608fbe-4030-4a79-a2af-f8ab928cc126</testCaseGuid>
+</TestCaseEntity>

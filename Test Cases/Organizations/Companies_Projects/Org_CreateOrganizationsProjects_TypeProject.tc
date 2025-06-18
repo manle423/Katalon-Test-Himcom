@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a organization</description>
+   <name>Org_CreateOrganizationsProjects_TypeProject</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27699a62-18e9-41d8-af68-a1d1fd39fa9c</testCaseGuid>
+</TestCaseEntity>

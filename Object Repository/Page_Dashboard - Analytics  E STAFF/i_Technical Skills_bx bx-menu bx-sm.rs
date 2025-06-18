@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Technical Skills_bx bx-menu bx-sm</name>
+   <tag></tag>
+   <elementGuidId>7c6fdd1a-be2d-40d1-b6db-360d0d7769cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-menu.bx-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='layout-navbar']/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>35a5d4b7-3d40-42d6-836c-0e19aabd6538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-menu bx-sm</value>
+      <webElementGuid>c24c82d6-f24c-4766-be03-9b56393c8c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-navbar&quot;)/div[@class=&quot;layout-menu-toggle navbar-nav align-items-xl-center me-3 me-xl-0  d-xl-none&quot;]/a[@class=&quot;nav-item nav-link px-0 me-xl-4&quot;]/i[@class=&quot;bx bx-menu bx-sm&quot;]</value>
+      <webElementGuid>72115b4e-feea-46ec-8a85-fc73ad330b76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='layout-navbar']/div/a/i</value>
+      <webElementGuid>5081b7c8-cbbc-4927-a392-5570ccc07113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/a/i</value>
+      <webElementGuid>69706a0e-854c-4c44-92c7-551ada5021d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

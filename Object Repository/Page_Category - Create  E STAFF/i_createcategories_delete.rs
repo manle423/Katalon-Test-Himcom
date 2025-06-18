@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_createcategories_delete</name>
+   <tag></tag>
+   <elementGuidId>f4cad392-5181-4981-b433-17d33c493669</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-trash.me-1.fs-4.delete-cat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='cat-1']/td[3]/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c14456c8-75d3-46da-b459-a879971fe6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-trash me-1 fs-4 delete-cat</value>
+      <webElementGuid>a12527af-2f47-4d14-99e7-6c8ddce13d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cat-1&quot;)/td[3]/div[@class=&quot;delete-container&quot;]/i[@class=&quot;bx bx-trash me-1 fs-4 delete-cat&quot;]</value>
+      <webElementGuid>483e5634-a84f-4427-9d66-99780371bd18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='cat-1']/td[3]/div/i</value>
+      <webElementGuid>a6ccb1ee-832c-48f1-8cdc-1968d76e5862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::i[1]</value>
+      <webElementGuid>41b450cd-12b0-4664-953d-9b6cdb3f75aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::i[1]</value>
+      <webElementGuid>15890441-5840-42e9-a2da-777b6d448f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::i[1]</value>
+      <webElementGuid>0cdbdf3f-c563-4268-af89-f9145869fe38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/i</value>
+      <webElementGuid>608642d7-0a58-4f30-ba41-f7980bed1c81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

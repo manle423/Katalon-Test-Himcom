@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create a organization</description>
+   <name>Org_CreateOrganizationsProjects_TypeMBISXIRED</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4c63054-9806-4762-821b-e8f2398e732a</testCaseGuid>
+</TestCaseEntity>

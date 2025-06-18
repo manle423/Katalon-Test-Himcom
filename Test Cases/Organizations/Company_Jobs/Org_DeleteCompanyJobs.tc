@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Org_DeleteCompanyJobs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d845f5ed-2ccd-4c85-8056-4e871f9e8b0b</testCaseGuid>
+</TestCaseEntity>

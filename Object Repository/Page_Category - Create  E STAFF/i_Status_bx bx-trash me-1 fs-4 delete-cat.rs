@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Status_bx bx-trash me-1 fs-4 delete-cat</name>
+   <tag></tag>
+   <elementGuidId>3def05e1-a153-4a90-87c5-7a638ba6d4e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cat-3 > td:nth-of-type(3) > div.delete-container > i.bx.bx-trash.me-1.fs-4.delete-cat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='cat-3']/td[3]/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>152d3b2b-b949-4a6c-9052-34189a102f0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bx bx-trash me-1 fs-4 delete-cat</value>
+      <webElementGuid>16e13ba3-1320-4367-bfcc-cec295e839d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cat-3&quot;)/td[3]/div[@class=&quot;delete-container&quot;]/i[@class=&quot;bx bx-trash me-1 fs-4 delete-cat&quot;]</value>
+      <webElementGuid>1bc7bf3d-be14-46a3-8144-2be5a967d77e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='cat-3']/td[3]/div/i</value>
+      <webElementGuid>d12a8a45-e336-4be2-ae3c-5aab89db71c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/div/i</value>
+      <webElementGuid>b70395d4-0710-431e-b7d8-9e7c2b087aaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
