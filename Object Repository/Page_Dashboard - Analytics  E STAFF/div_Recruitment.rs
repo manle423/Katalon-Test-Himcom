@@ -6,12 +6,12 @@
    <elementGuidId>be59f4ca-58f8-4bf6-8496-0a0dc192f525</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>ul.menu-sub > li.menu-item.active > a.menu-link > div</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//aside[@id='layout-menu']/ul/li[6]/ul/li[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>319d4ebc-5e8b-4eec-b2d3-9780d6221fd7</webElementGuid>
+      <webElementGuid>a95ed030-8d5f-451c-ae9c-a2e66907c242</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Recruitment</value>
-      <webElementGuid>f1ce0096-37b9-43ad-b479-1548ee1f09eb</webElementGuid>
+      <webElementGuid>c8cbd413-0b6e-4933-a5e7-fad80e56b39b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps ps--active-y&quot;]/li[@class=&quot;menu-item active open&quot;]/ul[@class=&quot;menu-sub&quot;]/li[@class=&quot;menu-item active&quot;]/a[@class=&quot;menu-link&quot;]/div[1]</value>
-      <webElementGuid>981676fc-3e14-4885-929f-ff697697ffd9</webElementGuid>
+      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps&quot;]/li[@class=&quot;menu-item open&quot;]/ul[@class=&quot;menu-sub&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link&quot;]/div[1]</value>
+      <webElementGuid>482aa6fc-2819-4ca3-8f33-5bca9519df6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='layout-menu']/ul/li[6]/ul/li[3]/a/div</value>
-      <webElementGuid>82d9cebd-2615-4250-a327-82c46dceac74</webElementGuid>
+      <webElementGuid>e9b5e559-84e0-4be0-ad48-2d0e054cabd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Positions'])[1]/following::div[1]</value>
-      <webElementGuid>8e8b423d-d742-454f-8eb6-ad8b34db4455</webElementGuid>
+      <webElementGuid>512986b9-9163-444f-bf78-535c7b1bd082</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[2]</value>
-      <webElementGuid>d8075aad-7f3e-45b7-ba8e-625dc8d0bb30</webElementGuid>
+      <webElementGuid>5e04f5f8-a57e-4543-94f6-58645ac81ca0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sources'])[1]/preceding::div[1]</value>
-      <webElementGuid>d8515762-bf3f-4993-b669-59f802171231</webElementGuid>
+      <webElementGuid>dacbe85d-9e48-426d-9345-652a9c03e073</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reasons'])[1]/preceding::div[2]</value>
-      <webElementGuid>0283dd4e-debf-40e9-a941-c02a216dcff9</webElementGuid>
+      <webElementGuid>44b78b3d-a7b3-4006-b724-dcc9e3112a3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Recruitment']/parent::*</value>
-      <webElementGuid>2f73b360-a885-4192-afe6-a7cbb61b3e49</webElementGuid>
+      <webElementGuid>17205689-253b-453b-a0cf-468e3adcf5ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li[3]/a/div</value>
-      <webElementGuid>31a346eb-cd39-4022-85e2-f44fb89ebb56</webElementGuid>
+      <webElementGuid>eaf0e136-b0c0-4989-9a46-b2cdc8ef174d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Recruitment' or . = 'Recruitment')]</value>
-      <webElementGuid>fde8c395-2597-4766-93c8-89a554a57ae5</webElementGuid>
+      <webElementGuid>9eb34979-6e26-4ced-9cd8-da4c18edc408</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

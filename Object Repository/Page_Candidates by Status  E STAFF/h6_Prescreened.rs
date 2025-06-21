@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>b4613de0-3bb7-41e9-b7c0-02118e3b5566</webElementGuid>
+      <webElementGuid>df512365-59a2-4d5e-869b-c6f8c2d6bc9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fs</value>
-      <webElementGuid>38a9a471-0a23-47a6-b95f-ab78def87e24</webElementGuid>
+      <webElementGuid>02afbec1-2ad6-4276-9077-be435e149cdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Prescreened</value>
-      <webElementGuid>bc025361-5489-48aa-9e86-79d6dc5d2da6</webElementGuid>
+      <webElementGuid>a7a8802b-61b8-474d-be03-49b4f56bf6ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row ms-3&quot;]/ul[@class=&quot;nav nav-pills&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/h6[@class=&quot;fs&quot;]</value>
-      <webElementGuid>ed40b08c-17e6-49e5-848b-250058e43fa6</webElementGuid>
+      <webElementGuid>8ba7e648-7089-43d1-af98-e7fe3335c9d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applied'])[1]/following::h6[1]</value>
-      <webElementGuid>16d64914-f101-4a68-9136-1f1dd9f41f20</webElementGuid>
+      <webElementGuid>c6b062bf-4852-4bfc-8728-07fa08145131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::h6[2]</value>
-      <webElementGuid>3942d96d-d0de-41ca-9e04-368ef9322ec3</webElementGuid>
+      <webElementGuid>90ae7129-25e8-4e36-901e-3f8fa49b5e8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer'])[1]/preceding::h6[3]</value>
-      <webElementGuid>2977fc3b-779e-4bb3-812a-01c3f33e4c30</webElementGuid>
+      <webElementGuid>2c829f2b-677a-47ac-bbdb-8145fbb00a0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Probation'])[1]/preceding::h6[4]</value>
-      <webElementGuid>f148f082-0821-431a-ac88-9062161682a8</webElementGuid>
+      <webElementGuid>baefd6f7-b678-4530-b487-775b63551359</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Prescreened']/parent::*</value>
-      <webElementGuid>f8fd5534-875c-4cff-85be-31b955ce4f14</webElementGuid>
+      <webElementGuid>24bc3a88-eef0-444c-86bf-31ad043641b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a/h6</value>
-      <webElementGuid>914c1744-78d7-49f6-b007-08a7f4cd925a</webElementGuid>
+      <webElementGuid>ef95288c-2c56-4e08-bfe0-fabb07a57def</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = 'Prescreened' or . = 'Prescreened')]</value>
-      <webElementGuid>ff1ab667-716e-4b27-9804-c4f6627c0797</webElementGuid>
+      <webElementGuid>6a616a3b-0b29-4421-b969-21406e3340a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

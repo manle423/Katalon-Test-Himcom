@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>f5697b53-b1fc-4474-b34f-3217147c86cd</webElementGuid>
+      <webElementGuid>4cbbd8c5-664f-47ab-b195-4b5457fd4632</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fs</value>
-      <webElementGuid>afd5797c-ab68-42dd-9089-8db5a32dd015</webElementGuid>
+      <webElementGuid>c6e86c49-863f-458b-a8c8-b487d9787931</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Offer</value>
-      <webElementGuid>4001e365-dbf3-4edc-9295-4d4d60988391</webElementGuid>
+      <webElementGuid>24ef59bd-0154-403f-bfa0-a275b19cd9eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row ms-3&quot;]/ul[@class=&quot;nav nav-pills&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/h6[@class=&quot;fs&quot;]</value>
-      <webElementGuid>457515c2-a3da-41c1-b5df-d7bc2d453081</webElementGuid>
+      <webElementGuid>754ebda5-9a60-4108-a81e-6fc4553edf9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescreened'])[1]/following::h6[3]</value>
-      <webElementGuid>d024fb41-9513-4ee7-bc2c-4c2356db54d4</webElementGuid>
+      <webElementGuid>3814a76a-3a45-486b-9200-86ddfc894450</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applied'])[1]/following::h6[4]</value>
-      <webElementGuid>9e0d9db3-2575-4f7d-878b-1fe2399f8865</webElementGuid>
+      <webElementGuid>8c05c109-67a4-475b-942d-dec9082472ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Probation'])[1]/preceding::h6[1]</value>
-      <webElementGuid>58ff3157-4978-4aca-ab6b-ec4b99b4838e</webElementGuid>
+      <webElementGuid>34d864bc-b510-48b1-a570-df79329dceeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hired'])[1]/preceding::h6[2]</value>
-      <webElementGuid>0057ad62-56b6-4c86-b77d-013a0c70d01c</webElementGuid>
+      <webElementGuid>12958801-ac23-43a3-b8d3-2b55aa14efe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Offer']/parent::*</value>
-      <webElementGuid>de6dfeb0-2e35-454b-b7c0-7681ccf896b0</webElementGuid>
+      <webElementGuid>a0680a8e-24a9-409d-b9e5-913726f795f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a/h6</value>
-      <webElementGuid>da77e3a7-debb-4e1d-9e73-b8c6b126ad7c</webElementGuid>
+      <webElementGuid>fed8e13f-381d-44a3-b6d4-6130d63263b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = 'Offer' or . = 'Offer')]</value>
-      <webElementGuid>a573de73-dbeb-42c5-b45d-bd52a76f5177</webElementGuid>
+      <webElementGuid>f708ef37-ced4-4217-8ee0-755dc7c53d93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

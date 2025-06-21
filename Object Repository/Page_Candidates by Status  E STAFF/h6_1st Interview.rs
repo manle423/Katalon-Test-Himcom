@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>a48c2e88-4fd2-4b50-a498-b12caea5d220</webElementGuid>
+      <webElementGuid>11caa8af-4cb0-467f-8dde-c48b5c707620</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fs</value>
-      <webElementGuid>f7199fa3-3373-4b10-b621-e30465bbc20d</webElementGuid>
+      <webElementGuid>e3b4b5ae-3268-4730-9d84-5e929305fa9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1st Interview</value>
-      <webElementGuid>ceab7e10-baf1-4a86-9454-1f6aa7ba344d</webElementGuid>
+      <webElementGuid>d47f0760-3c2c-413e-b1e1-31efb38b2017</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row ms-3&quot;]/ul[@class=&quot;nav nav-pills&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/h6[@class=&quot;fs&quot;]</value>
-      <webElementGuid>7ccba0f0-a6ab-4523-9ab2-e74aed7c7a49</webElementGuid>
+      <webElementGuid>eebdc62d-6eb5-4753-ba90-efbd8b743aba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescreened'])[1]/following::h6[1]</value>
-      <webElementGuid>42b4b08c-8dbc-4ddc-915b-78a54d4d4154</webElementGuid>
+      <webElementGuid>a4b3cec5-2cfb-4819-86e2-f301825c5849</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applied'])[1]/following::h6[2]</value>
-      <webElementGuid>05402fff-eb3e-4630-9255-06e6a01e14a6</webElementGuid>
+      <webElementGuid>4e9006cd-e742-48dd-9eeb-c065b64c839a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer'])[1]/preceding::h6[2]</value>
-      <webElementGuid>a20063d0-b991-4d9c-9400-6674275f5a9f</webElementGuid>
+      <webElementGuid>59a429a0-97b4-4efc-8790-5b036167f8a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Probation'])[1]/preceding::h6[3]</value>
-      <webElementGuid>cd6bde6e-0848-4dd5-bf5a-c456b2b9d4c8</webElementGuid>
+      <webElementGuid>5b90916e-7559-46f1-b71c-81263d524ce7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='1st Interview']/parent::*</value>
-      <webElementGuid>1813e545-dbea-4e2d-b983-d1435077602e</webElementGuid>
+      <webElementGuid>db407c6e-835a-47b2-875c-9b0f731afccf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/h6</value>
-      <webElementGuid>eed0aca7-4796-4668-b88e-7809f600c3a0</webElementGuid>
+      <webElementGuid>445207b4-e04b-4d73-aa2f-610872859ccc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = '1st Interview' or . = '1st Interview')]</value>
-      <webElementGuid>0e3abc60-f030-4248-b1cb-82522b8c92ed</webElementGuid>
+      <webElementGuid>ea73698e-d548-48ee-9986-2c17adce36ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

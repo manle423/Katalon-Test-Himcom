@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_ApproveRoundsMultiple</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ff8d871-93b1-458e-854b-12b645f20812</testCaseGuid>
+</TestCaseEntity>

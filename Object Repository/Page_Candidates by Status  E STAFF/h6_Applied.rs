@@ -6,15 +6,21 @@
    <elementGuidId>b885fad3-f84f-4c5b-9af7-251da2583cd8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::h6[1]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.active > h6.fs</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Applied&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>b3a10fa8-acba-4edd-8ac0-e56dad4914e0</webElementGuid>
+      <webElementGuid>24688a6b-e970-41f6-be96-6126ff594ed3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fs</value>
-      <webElementGuid>0b0efbd6-fe53-4de0-b5d7-596391811f35</webElementGuid>
+      <webElementGuid>bda49e06-f8c3-457a-b0b6-8aa44ac3a89b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +45,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Applied</value>
-      <webElementGuid>dd800606-5cec-450d-88e8-b52f328cf209</webElementGuid>
+      <webElementGuid>313a2729-14e9-495b-adb3-559fa96fef57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row ms-3&quot;]/ul[@class=&quot;nav nav-pills&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/h6[@class=&quot;fs&quot;]</value>
-      <webElementGuid>16d25e24-baf4-42aa-bd2f-1fb4886c4051</webElementGuid>
+      <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row ms-3&quot;]/ul[@class=&quot;nav nav-pills&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link active&quot;]/h6[@class=&quot;fs&quot;]</value>
+      <webElementGuid>36b22c70-3178-49b2-a667-41f4189ec030</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::h6[1]</value>
-      <webElementGuid>6cbd182d-17a4-488b-a270-6ad1568b3a00</webElementGuid>
+      <webElementGuid>acd3cc36-dceb-447e-9dd8-75ae847b11cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::h6[2]</value>
-      <webElementGuid>9b677dca-56fa-4cb2-8ca2-a06f848dd638</webElementGuid>
+      <webElementGuid>6fdd1511-7964-4dd8-bdfc-9c808ed76f4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescreened'])[1]/preceding::h6[1]</value>
-      <webElementGuid>4ba008dc-cb35-4f89-85dc-72ce4fbebbe7</webElementGuid>
+      <webElementGuid>edae00e2-a0e8-448f-8791-70306a6acea1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer'])[1]/preceding::h6[4]</value>
-      <webElementGuid>f65152f3-09c2-4ee5-aa9e-f3943b992ee0</webElementGuid>
+      <webElementGuid>747ead59-6403-480b-b7a5-657e12013a21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Applied']/parent::*</value>
-      <webElementGuid>cbb57331-9f22-4820-aec1-d94387713991</webElementGuid>
+      <webElementGuid>55d7837d-a38f-4881-a548-74ad86bd403c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a/h6</value>
-      <webElementGuid>cd3fa366-ce63-494b-95d9-365b29aa5b4f</webElementGuid>
+      <webElementGuid>286aa2f5-a856-4a84-862f-f9d15ef101b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = 'Applied' or . = 'Applied')]</value>
-      <webElementGuid>b4534a23-8219-49f8-862f-b1703efbb9e3</webElementGuid>
+      <webElementGuid>aa11fec6-2f7a-4cac-aa51-35b3d582a37d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

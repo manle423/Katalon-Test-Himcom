@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_email</name>
+   <name>input_Delete_candidate-checkbox</name>
    <tag></tag>
-   <elementGuidId>dad57e79-8934-4cee-b9a9-69a12fe9ed0f</elementGuidId>
+   <elementGuidId>e4b64e99-8334-40f0-9dce-1a61dc33dd03</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='email']</value>
+         <value>//input[@value='10577']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#email</value>
+         <value>tr:nth-of-type(2) > td.candidate-cell > input.candidate-checkbox</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Enter your email&quot;i]</value>
+         <value>internal:role=row[name=&quot;N Store Leader DAM VI PHONG phongvidam@gmail.com 0704684768 07/05/2025 1st Interview Waiting Approve Potential Reject &quot;i] >> internal:role=checkbox</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a5c294cb-b2a4-4f3b-be82-ea29d8aa73f5</webElementGuid>
+      <webElementGuid>884c5cb3-adba-4ede-93e9-68bf958ae77f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>39c28a12-0db5-4bd2-963b-3f8bcd3366bb</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>414fc9a9-5b85-4e55-a27c-b806b544bf56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>e8de6fe8-e20a-4d92-80e4-b2c4538c6432</webElementGuid>
+      <value>candidate-checkbox</value>
+      <webElementGuid>538256c8-4f66-48d5-8078-1ded10e0cb1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>value</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>2ece2fe1-6c1e-49e4-9e4e-68638d9d7d54</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>email</value>
-      <webElementGuid>f4d1f137-3786-4cd9-a1c9-77cb110749c7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Enter your email</value>
-      <webElementGuid>2dc91ffc-bbba-4916-bbdd-51059c50b498</webElementGuid>
+      <value>10577</value>
+      <webElementGuid>cc4a832f-e16b-4a9d-9dbe-f84e21df1412</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email&quot;)</value>
-      <webElementGuid>49eebc51-2414-4c7c-b9ea-24a06ecb827f</webElementGuid>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[2]/td[@class=&quot;candidate-cell&quot;]/input[@class=&quot;candidate-checkbox&quot;]</value>
+      <webElementGuid>bc1430ca-b78a-49c6-bf96-3cd01410112b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='email']</value>
-      <webElementGuid>9314cfc8-2f34-4ffc-bc75-917d4c5ee295</webElementGuid>
+      <value>//input[@value='10577']</value>
+      <webElementGuid>fbf201c5-6fb4-4ceb-84f2-0637de22fdcc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='formAuthentication']/div/input</value>
-      <webElementGuid>ac504f81-cafb-4d23-83da-59aa4abd13f9</webElementGuid>
+      <value>//table[@id='example']/tbody/tr[2]/td/input</value>
+      <webElementGuid>1514060b-9494-4f82-8c76-b9aef4028845</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>29993027-5955-4223-bd0c-f4f1bcb489d1</webElementGuid>
+      <value>//tr[2]/td/input</value>
+      <webElementGuid>0bef9296-f5e8-4bdf-9b98-86331773f91d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'email' and @name = 'email' and @placeholder = 'Enter your email']</value>
-      <webElementGuid>19f41ace-0a51-4342-9982-18b5b4c33b21</webElementGuid>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>2c8d719c-820e-4523-8af6-d1d1ea592b61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

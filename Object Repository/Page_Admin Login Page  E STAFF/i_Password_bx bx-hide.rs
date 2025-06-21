@@ -6,15 +6,21 @@
    <elementGuidId>a0f4936d-8028-4315-bbd1-b739471cb245</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.bx.bx-hide</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='formAuthentication']/div[2]/div[2]/span/i</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bx.bx-hide</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>i</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>6abb1718-bebc-432b-8320-a7dedf3fbac6</webElementGuid>
+      <webElementGuid>8fbde088-ffd8-4c82-a9ed-ce104bc8c132</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bx bx-hide</value>
-      <webElementGuid>abab242d-aeb4-4f17-b2dc-31a543fe8d6e</webElementGuid>
+      <webElementGuid>e0ec2362-af33-4f15-8d1c-367c8c18a05c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;formAuthentication&quot;)/div[@class=&quot;mb-3 form-password-toggle&quot;]/div[@class=&quot;input-group input-group-merge&quot;]/span[@class=&quot;input-group-text cursor-pointer&quot;]/i[@class=&quot;bx bx-hide&quot;]</value>
-      <webElementGuid>b20ef7e8-32b4-4777-a8e3-d76a66aa98f7</webElementGuid>
+      <webElementGuid>622e136f-5528-4ee0-ad2a-2a2612d6dc06</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='formAuthentication']/div[2]/div[2]/span/i</value>
-      <webElementGuid>349669da-ef00-4c25-a992-028c3988a4bb</webElementGuid>
+      <webElementGuid>0298b91f-7086-403d-9cd6-307302284b9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>b0f88c54-adf7-4151-ab8e-20c98d2b2619</webElementGuid>
+      <webElementGuid>6f114e67-8f35-4f35-b35c-cb840b2cb5a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

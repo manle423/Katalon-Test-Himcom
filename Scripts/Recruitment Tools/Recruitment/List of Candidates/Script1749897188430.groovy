@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Page_Dashboard - Analytics  E STAF
 
 WebUI.waitForElementVisible(findTestObject('Page_Candidates by Status  E STAFF/h4_Candidates by Interview Status'), 0)
 
-WebUI.verifyElementVisible(findTestObject('Page_Candidates by Status  E STAFF/div_All                                                                                                                                                    Applied'))
+WebUI.verifyElementVisible(findTestObject('Page_Candidates by Status  E STAFF/div_All'))
 
 WebUI.verifyElementVisible(findTestObject('Page_Candidates by Status  E STAFF/div_All _ _31db68'))
 

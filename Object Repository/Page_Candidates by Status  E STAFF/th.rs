@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Password_input-group-text cursor-pointer</name>
+   <name>th</name>
    <tag></tag>
-   <elementGuidId>ff01f2ec-2665-4d55-b8b4-c0631c1a3858</elementGuidId>
+   <elementGuidId>21a1994b-1054-4a2f-aae4-4c0697cb03db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='formAuthentication']/div[2]/div[2]/span</value>
+         <value>//table[@id='example']/thead/tr/th</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.input-group-text.cursor-pointer</value>
+         <value>th</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#formAuthentication span</value>
+         <value>th >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,63 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>d4f46d04-710a-44c3-b4b0-893232b65da2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>input-group-text cursor-pointer</value>
-      <webElementGuid>9f117752-5155-48dc-bd28-3227ba93db37</webElementGuid>
+      <value>th</value>
+      <webElementGuid>2e7f3893-5c68-4216-a16d-b14f2879fd9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formAuthentication&quot;)/div[@class=&quot;mb-3 form-password-toggle&quot;]/div[@class=&quot;input-group input-group-merge&quot;]/span[@class=&quot;input-group-text cursor-pointer&quot;]</value>
-      <webElementGuid>7fd82ee3-7f29-455e-b048-4b7862b9bf78</webElementGuid>
+      <value>id(&quot;example&quot;)/thead[1]/tr[@class=&quot;text-center&quot;]/th[1]</value>
+      <webElementGuid>e4a397c9-ef51-4229-9f30-cc6d4ba8cf24</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='formAuthentication']/div[2]/div[2]/span</value>
-      <webElementGuid>96280c26-4570-4f68-ba41-8e13f26a25b7</webElementGuid>
+      <value>//table[@id='example']/thead/tr/th</value>
+      <webElementGuid>84ab1316-1c6d-4baa-8952-7cc1fcbc91a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
-      <webElementGuid>81bf1fb0-3432-4ba8-93a1-e673263b8ee0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential'])[1]/following::th[1]</value>
+      <webElementGuid>47a308c6-7f7c-45dc-b06c-0928dd88547a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
-      <webElementGuid>86791024-9078-4022-8063-3e5d5ecf4438</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hired'])[1]/following::th[1]</value>
+      <webElementGuid>6b4b9d59-e620-4f99-8ae0-3512522c098a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::span[1]</value>
-      <webElementGuid>8429df2e-03d4-4490-a10c-45b3a6933149</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N'])[1]/preceding::th[11]</value>
+      <webElementGuid>64bd66d1-1120-4ce7-8cd2-b2e07eb44fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NGUYEN TUAN CUONG'])[1]/preceding::th[11]</value>
+      <webElementGuid>e35f159b-ecce-4f4c-966f-a8557fa37b10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/span</value>
-      <webElementGuid>f1eefb7b-be79-4f99-8d83-a39feab3cdb2</webElementGuid>
+      <value>//th</value>
+      <webElementGuid>ecc72090-0c4c-484d-91e9-123c221e2bc6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

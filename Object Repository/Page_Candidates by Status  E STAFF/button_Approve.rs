@@ -6,15 +6,21 @@
    <elementGuidId>0dda9946-c482-45a4-8f28-3b3e616b26f1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#updateSelectedBtn</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='updateSelectedBtn']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#updateSelectedBtn</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Approve&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>833ca90d-8887-4050-998e-8ddc3367a6ee</webElementGuid>
+      <webElementGuid>762df8d3-e0ed-44db-87d7-659484bf2c1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a44ed19a-8e10-4d59-a2dc-96c3124213e0</webElementGuid>
+      <webElementGuid>23d78dbc-07fa-4221-ba2b-0a4b71fabc8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-item text-primary fw-bold</value>
-      <webElementGuid>93f067ce-1881-49f9-8645-cdc6aee7a5f3</webElementGuid>
+      <webElementGuid>594b6c9b-8af5-4b52-9d80-ee3b2c6667db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>updateSelectedBtn</value>
-      <webElementGuid>24042b63-31c4-446f-a07c-24212d1b6794</webElementGuid>
+      <webElementGuid>ca8fbf96-78f6-4231-9dd6-1cc829e45fe9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +63,7 @@
       <value>
                          Approve
                     </value>
-      <webElementGuid>ab974855-1572-4931-ad0e-8f5803d24afa</webElementGuid>
+      <webElementGuid>a8b50b9e-97ad-4495-8a28-4550eee5b213</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;updateSelectedBtn&quot;)</value>
-      <webElementGuid>7e042783-a36e-447d-8767-727e487af633</webElementGuid>
+      <webElementGuid>2b64eaec-5e91-460c-98e9-579377d983f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='updateSelectedBtn']</value>
-      <webElementGuid>8423a89a-06e1-478e-b296-a4dcb41f287b</webElementGuid>
+      <webElementGuid>acd5d52d-6119-416f-a640-066954ee8057</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Export data'])[1]/following::button[1]</value>
-      <webElementGuid>bb86b13a-4e85-4848-9579-af10b96496ea</webElementGuid>
+      <webElementGuid>2009d8f8-2f0f-412b-ad79-83529127457c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='More actions'])[1]/following::button[1]</value>
-      <webElementGuid>d0ba2137-b6eb-4ac7-8ef5-bbf36d962711</webElementGuid>
+      <webElementGuid>3a374195-0531-4ecb-b789-1c82eceab305</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed detail imported'])[1]/preceding::button[2]</value>
-      <webElementGuid>aca7666f-5c5d-410c-b2eb-e6261c674141</webElementGuid>
+      <webElementGuid>a7a2feb9-f4ff-4d04-b0d1-46ec01eb0b60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
-      <webElementGuid>2a73e396-d849-410f-8a2c-65d08ce25a5a</webElementGuid>
+      <webElementGuid>11340e47-3cb1-4bef-bf16-0d551d5deac8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>8d45ba17-5b44-40ea-87fb-59883bde2d96</webElementGuid>
+      <webElementGuid>1ababec3-a62e-4dd7-a178-f7cfd9300cef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +131,6 @@
                     ' or . = '
                          Approve
                     ')]</value>
-      <webElementGuid>d49516fd-8b61-41e5-be55-42781389c769</webElementGuid>
+      <webElementGuid>62fad5e9-59d1-4489-9510-f3792659127b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
