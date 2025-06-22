@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RT_ApproveForEachRounds</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc335943-ad3c-4da1-90ea-bbd5f3d128d0</testCaseGuid>
+</TestCaseEntity>

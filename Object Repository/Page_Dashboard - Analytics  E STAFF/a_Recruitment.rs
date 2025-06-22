@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Recruitment&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d94dad65-b3e1-4854-bb34-2f3bd0dff683</webElementGuid>
+      <webElementGuid>c712dde4-7f09-4d64-8d5a-2e0af4d730c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://nhanvien-test.estaff.vn/admin/talent_acquisition/candidate/round</value>
-      <webElementGuid>e6d5b4e6-204a-42e3-8f2e-e3ce0ba5b02e</webElementGuid>
+      <webElementGuid>03fd6d83-61bf-4cff-b04a-33af75dbed47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>menu-link</value>
-      <webElementGuid>18134ff5-de33-4ad3-9b02-bcd27ecfdf5f</webElementGuid>
+      <webElementGuid>f32e07f2-04e2-43f5-9dac-5e990cf47e3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,15 +56,15 @@
                     
                     Recruitment
                   </value>
-      <webElementGuid>7975d7e7-c348-4753-b14e-912a41d45334</webElementGuid>
+      <webElementGuid>cbc88157-bb6e-40fc-9a68-56735b42f885</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps ps--active-y ps--scrolling-y&quot;]/li[@class=&quot;menu-item open&quot;]/ul[@class=&quot;menu-sub&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link&quot;]</value>
-      <webElementGuid>55122367-23bc-45bd-8978-1166578030f6</webElementGuid>
+      <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps&quot;]/li[@class=&quot;menu-item open&quot;]/ul[@class=&quot;menu-sub&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link&quot;]</value>
+      <webElementGuid>8546ca33-0129-4ffc-a1df-91287a8cd637</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +72,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='layout-menu']/ul/li[6]/ul/li[3]/a</value>
-      <webElementGuid>fa0f6fa7-dfb9-4e78-a9ed-92ac5ab1510a</webElementGuid>
+      <webElementGuid>55819f5f-c04c-4a0c-a6ac-17595394783f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Positions'])[1]/following::a[1]</value>
-      <webElementGuid>6a7f2c8e-e193-435b-8acc-ae828dca2e20</webElementGuid>
+      <webElementGuid>33d5c031-d342-4589-92ed-d41b822ce9e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
-      <webElementGuid>af53f5e3-3a89-4824-87b9-8c11429e1dfa</webElementGuid>
+      <webElementGuid>aa291a4e-3172-42e8-94c5-a5e20c7d7428</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sources'])[1]/preceding::a[1]</value>
-      <webElementGuid>49c1bfb3-c0d7-4b1c-8e13-e74ac777dea6</webElementGuid>
+      <webElementGuid>094eafc9-5b30-4390-9de5-522f7c87735f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +104,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://nhanvien-test.estaff.vn/admin/talent_acquisition/candidate/round')]</value>
-      <webElementGuid>24161dd0-0d67-44c3-8de3-e914db99c1d2</webElementGuid>
+      <webElementGuid>5535e9ae-c40b-4864-b405-c9f0d73df625</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/ul/li[3]/a</value>
-      <webElementGuid>4d5207a2-9f90-4c18-b726-7826745b26cb</webElementGuid>
+      <webElementGuid>28a7411a-b005-44c2-96aa-3d20899a7d97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +126,6 @@
                     
                     Recruitment
                   ')]</value>
-      <webElementGuid>f7fbb584-f780-4d50-91aa-9abad01fbcc2</webElementGuid>
+      <webElementGuid>e27d97df-efd8-4fa9-9146-895ebccf7659</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

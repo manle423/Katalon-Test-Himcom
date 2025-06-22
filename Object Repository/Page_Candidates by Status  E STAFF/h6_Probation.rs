@@ -6,12 +6,12 @@
    <elementGuidId>ca35b15e-64ba-4fbb-a30e-36ea27b2ccde</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer'])[1]/following::h6[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer'])[1]/following::h6[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>1769e9c4-d8b7-4144-9ab3-53f8a0dedae8</webElementGuid>
+      <webElementGuid>63310783-17d0-4213-9cd5-20fbcc8597c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fs</value>
-      <webElementGuid>9ef178d9-ebb1-46f8-a193-96213e2b81e0</webElementGuid>
+      <webElementGuid>d8a5490a-7b18-400b-bb7a-45456c44fca1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Probation</value>
-      <webElementGuid>cac8bbf3-837c-4d7e-b61f-16418e38a0e6</webElementGuid>
+      <webElementGuid>ce6f4b74-d703-4aaa-875c-5fd5dd9035f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row ms-3&quot;]/ul[@class=&quot;nav nav-pills&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/h6[@class=&quot;fs&quot;]</value>
-      <webElementGuid>594b6936-e8bc-43e2-a8fa-154e2a672c0a</webElementGuid>
+      <webElementGuid>412485bf-3a71-455b-a2c9-be65cc873ba5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer'])[1]/following::h6[1]</value>
-      <webElementGuid>818a56e2-d2dc-442c-8f5c-54e1b487d9e5</webElementGuid>
+      <webElementGuid>9b014569-f023-442b-8a63-853da7d9cba0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescreened'])[1]/following::h6[4]</value>
-      <webElementGuid>15faec65-8ab9-4dc8-9774-d136c79abe8d</webElementGuid>
+      <webElementGuid>1585f47f-eb33-469d-9149-79b58290fe2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hired'])[1]/preceding::h6[1]</value>
-      <webElementGuid>ad3e31cb-58f8-42d0-8d3f-34feac7e250a</webElementGuid>
+      <webElementGuid>24e14967-b87f-49a6-93db-f8135d7d6e98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential'])[1]/preceding::h6[2]</value>
-      <webElementGuid>8b9afe89-6575-4c73-b2a3-a615d9aae5be</webElementGuid>
+      <webElementGuid>fadf7c17-440b-4758-b2e4-ff5d6ef1d135</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Probation']/parent::*</value>
-      <webElementGuid>d68d799a-f6a5-47ee-ba4c-964b1dcc334d</webElementGuid>
+      <webElementGuid>4070941c-74ee-48b2-97aa-44236c9dadbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/a/h6</value>
-      <webElementGuid>7939f552-2f60-4d8e-9a0d-555c74373ce4</webElementGuid>
+      <webElementGuid>e0f1d3de-40d3-4e0b-9d99-c33a431dae1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = 'Probation' or . = 'Probation')]</value>
-      <webElementGuid>9040dfe1-18e8-4f56-8e4e-5af2741b5277</webElementGuid>
+      <webElementGuid>1f8d1200-02df-48a9-b452-cbb2459df9cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

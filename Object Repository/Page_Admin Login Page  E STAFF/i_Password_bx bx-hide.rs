@@ -6,12 +6,12 @@
    <elementGuidId>a0f4936d-8028-4315-bbd1-b739471cb245</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='formAuthentication']/div[2]/div[2]/span/i</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>i.bx.bx-hide</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formAuthentication']/div[2]/div[2]/span/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>8fbde088-ffd8-4c82-a9ed-ce104bc8c132</webElementGuid>
+      <webElementGuid>858e19c1-ea29-4096-b056-be6d2db83964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bx bx-hide</value>
-      <webElementGuid>e0ec2362-af33-4f15-8d1c-367c8c18a05c</webElementGuid>
+      <webElementGuid>7d47a263-04ec-4026-9679-224f81fabb6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;formAuthentication&quot;)/div[@class=&quot;mb-3 form-password-toggle&quot;]/div[@class=&quot;input-group input-group-merge&quot;]/span[@class=&quot;input-group-text cursor-pointer&quot;]/i[@class=&quot;bx bx-hide&quot;]</value>
-      <webElementGuid>622e136f-5528-4ee0-ad2a-2a2612d6dc06</webElementGuid>
+      <webElementGuid>c7511454-ed81-4e21-a4ef-ba42ac3aa98c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='formAuthentication']/div[2]/div[2]/span/i</value>
-      <webElementGuid>0298b91f-7086-403d-9cd6-307302284b9f</webElementGuid>
+      <webElementGuid>3a51a02d-21be-4ecb-9711-fa5edd5af89f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>6f114e67-8f35-4f35-b35c-cb840b2cb5a8</webElementGuid>
+      <webElementGuid>8d24f778-46d4-4d0c-ae79-bd101ad72fa7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

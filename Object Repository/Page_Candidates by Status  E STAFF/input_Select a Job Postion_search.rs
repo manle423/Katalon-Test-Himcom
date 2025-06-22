@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search by name, email, or phone&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>04b4980c-2098-48ef-98f7-dfd93393dc07</webElementGuid>
+      <webElementGuid>35f153da-5d39-4560-ab5f-ac406aab374a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c43b3f56-00d4-49d8-b07b-bad0f19d28a6</webElementGuid>
+      <webElementGuid>88c142d9-3382-49fb-a13b-b269d4404ca7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>1934bc03-7f21-4e21-af3e-167dee82f348</webElementGuid>
+      <webElementGuid>5cf8ab74-448b-4d75-8a6b-a62aab5919a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>de934eb5-3b71-4aae-b0f5-3b98ff834b27</webElementGuid>
+      <webElementGuid>e7c20275-e303-4d18-87f2-264642ef63c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,15 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search by name, email, or phone</value>
-      <webElementGuid>c12d6217-f7bb-43c5-8844-dbc89a3381a2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>nguyễn hồng nga</value>
-      <webElementGuid>35239f69-d275-48be-83a9-f71b1492787e</webElementGuid>
+      <webElementGuid>80787b9b-7a34-4a92-9992-4df88a38571f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;light-style layout-menu-fixed&quot;]/body[1]/div[@class=&quot;layout-wrapper layout-content-navbar&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;layout-page&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;container-xxl flex-grow-1 container-p-y&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>f3beb7ba-6d5b-45a8-9d72-b20627eb2120</webElementGuid>
+      <webElementGuid>e7ee4997-11c2-4726-9679-f079dd5f15d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='search']</value>
-      <webElementGuid>807589db-7433-4b5b-9643-0bccaffe8353</webElementGuid>
+      <webElementGuid>0925e0fd-9d0e-41cc-b3aa-aae500dcd90c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>810aacb6-4b9d-4f91-9869-b1f6028ca280</webElementGuid>
+      <webElementGuid>5ef817ea-74c3-4a22-ab30-ec3deedb904d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'search' and @placeholder = 'Search by name, email, or phone']</value>
-      <webElementGuid>80a4e24c-7ab5-42fd-93a9-91baf50f2845</webElementGuid>
+      <webElementGuid>00e815da-ba0f-45c6-b960-3dfe858e4f19</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign in</name>
+   <name>button_Approve_1</name>
    <tag></tag>
-   <elementGuidId>ca4f1efe-9cb6-4a49-88ff-e632177bcd37</elementGuidId>
+   <elementGuidId>9a52d0cf-8c86-496c-9611-22fa15c26040</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.d-grid.w-100</value>
+         <value>tr:nth-of-type(2) > td:nth-of-type(10) > div.d-flex > button.btn.btn-primary.btn-pass.btn-sm.me-1</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//table[@id='example']/tbody/tr[2]/td[10]/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Sign in&quot;i]</value>
+         <value>internal:role=row[name=&quot;TT Sales Admin CAO THỊ TIÊN caothitien98@gmail.com 0388170555 03/05/2025 Prescreened Waiting Approve Potential Reject &quot;i] >> internal:role=button >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c8eaa4e3-a9d8-43b3-bb30-f75110a9326f</webElementGuid>
+      <webElementGuid>690817ba-e268-4d22-92b3-2bc9cc1ce549</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary d-grid w-100</value>
-      <webElementGuid>2ce789b1-ec2e-4b07-9eee-f70bcafe729e</webElementGuid>
+      <value>btn btn-primary btn-pass btn-sm me-1</value>
+      <webElementGuid>57191784-16ea-4c67-ad80-a282d4377462</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>data-candidate-id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>343bd955-6243-4c1e-aab3-acb47edb2737</webElementGuid>
+      <value>10536</value>
+      <webElementGuid>5b33be91-9549-4251-9526-9ee167f6cdd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign in</value>
-      <webElementGuid>e986778b-615c-4132-9836-5c27b0532abe</webElementGuid>
+      <value>Approve</value>
+      <webElementGuid>5d2e5acf-651b-46b6-8a33-1e21db692f6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formAuthentication&quot;)/div[@class=&quot;mb-3&quot;]/button[@class=&quot;btn btn-primary d-grid w-100&quot;]</value>
-      <webElementGuid>4f187904-d154-4e6f-8194-5dceb4a3c335</webElementGuid>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[2]/td[10]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;btn btn-primary btn-pass btn-sm me-1&quot;]</value>
+      <webElementGuid>e955adda-95bf-40b6-bb10-c9e6600e1916</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>c293dfc8-62f2-4a36-8401-e365da299b6a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='formAuthentication']/div[3]/button</value>
-      <webElementGuid>b6889327-66dd-4274-93e5-0481ecd9d3dc</webElementGuid>
+      <value>//table[@id='example']/tbody/tr[2]/td[10]/div/button</value>
+      <webElementGuid>887e76fe-eb21-4f02-bdf1-923c45d0e3a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>090631aa-02a0-42d1-8a76-e81ead320c59</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waiting'])[3]/following::button[1]</value>
+      <webElementGuid>7434ae37-f10e-473e-8a4f-27c1682a6651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>e4903702-be00-48fb-8cce-7b5e790bec05</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescreened'])[3]/following::button[1]</value>
+      <webElementGuid>6ea1f173-6d2e-4eec-91c1-d95ac4d81329</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
-      <webElementGuid>fdd8ab91-6f34-46d1-9f26-816bb9c6a8c1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential'])[3]/preceding::button[1]</value>
+      <webElementGuid>0b62f29d-f3a5-4bbe-875f-fc3345483372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[2]/preceding::button[2]</value>
+      <webElementGuid>5eedbaa2-cbe6-42e6-aa78-de42ee0307e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>5a1d524d-e70a-40d9-ae83-8eb9f79fb580</webElementGuid>
+      <value>//tr[2]/td[10]/div/button</value>
+      <webElementGuid>54d44393-817a-44ed-bcf7-d5c0ea749a34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>d862a7bb-4941-46c5-abae-cde90eec7622</webElementGuid>
+      <value>//button[(text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>281a9b65-d916-43f5-9199-2fb2c767ec50</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

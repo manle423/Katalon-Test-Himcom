@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign in</name>
+   <name>button_Approve (1)</name>
    <tag></tag>
-   <elementGuidId>ca4f1efe-9cb6-4a49-88ff-e632177bcd37</elementGuidId>
+   <elementGuidId>d42967df-7526-433f-a6b7-8b028fa31722</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.d-grid.w-100</value>
+         <value>#updateSelectedBtn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//button[@id='updateSelectedBtn']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Sign in&quot;i]</value>
+         <value>internal:role=button[name=&quot; Approve&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,108 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c8eaa4e3-a9d8-43b3-bb30-f75110a9326f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary d-grid w-100</value>
-      <webElementGuid>2ce789b1-ec2e-4b07-9eee-f70bcafe729e</webElementGuid>
+      <webElementGuid>3f201134-90af-4ffb-88e4-cd7a2f32da81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>343bd955-6243-4c1e-aab3-acb47edb2737</webElementGuid>
+      <value>button</value>
+      <webElementGuid>ddcc0289-8990-4dbd-9b6f-07eb8b196735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item text-primary fw-bold</value>
+      <webElementGuid>0e31db1f-9e66-40ec-8273-5e8a83d9195e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>updateSelectedBtn</value>
+      <webElementGuid>950e60e2-9eec-4797-8190-3658878e5a83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign in</value>
-      <webElementGuid>e986778b-615c-4132-9836-5c27b0532abe</webElementGuid>
+      <value>
+                         Approve
+                    </value>
+      <webElementGuid>44092e1e-2d13-41fe-8295-2861f7e0fdda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;formAuthentication&quot;)/div[@class=&quot;mb-3&quot;]/button[@class=&quot;btn btn-primary d-grid w-100&quot;]</value>
-      <webElementGuid>4f187904-d154-4e6f-8194-5dceb4a3c335</webElementGuid>
+      <value>id(&quot;updateSelectedBtn&quot;)</value>
+      <webElementGuid>2c51f30d-8bd2-4348-a604-f11a9450527e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>c293dfc8-62f2-4a36-8401-e365da299b6a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//form[@id='formAuthentication']/div[3]/button</value>
-      <webElementGuid>b6889327-66dd-4274-93e5-0481ecd9d3dc</webElementGuid>
+      <value>//button[@id='updateSelectedBtn']</value>
+      <webElementGuid>849a4f20-bfc9-4b92-a771-8cab3c371fac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>090631aa-02a0-42d1-8a76-e81ead320c59</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export data'])[1]/following::button[1]</value>
+      <webElementGuid>e5c0caf0-428f-44e5-b8c1-72a463998c53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>e4903702-be00-48fb-8cce-7b5e790bec05</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More actions'])[1]/following::button[1]</value>
+      <webElementGuid>143eba28-f68a-4d8a-b68e-06b42c20b233</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
-      <webElementGuid>fdd8ab91-6f34-46d1-9f26-816bb9c6a8c1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed detail imported'])[1]/preceding::button[2]</value>
+      <webElementGuid>8cd4db4a-2a1f-40b6-b76d-ed8710f26618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
+      <webElementGuid>b372c352-1659-475f-93d2-daa680acf865</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>5a1d524d-e70a-40d9-ae83-8eb9f79fb580</webElementGuid>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>35ed54ae-9ac0-47df-affa-a429636b7d05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>d862a7bb-4941-46c5-abae-cde90eec7622</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'updateSelectedBtn' and (text() = '
+                         Approve
+                    ' or . = '
+                         Approve
+                    ')]</value>
+      <webElementGuid>f7111e78-36bc-4ad6-9aae-cce98d69e53e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>6c91a484-26aa-4589-9f36-046379f982bf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//aside[@id='layout-menu']/ul/li[6]/a/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='layout-menu']/ul/li[6]/a/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1ab40ea1-8e5c-41c2-b004-2d6fcb012306</webElementGuid>
+      <webElementGuid>97dbe5f9-9a1f-434f-bad9-35f0faecf241</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Recruitment Tools</value>
-      <webElementGuid>5b2674c1-91cf-43f9-bec0-c788d741b4fd</webElementGuid>
+      <webElementGuid>88ef3c2a-1abe-42a6-a035-b2c1841982ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;layout-menu&quot;)/ul[@class=&quot;menu-inner py-1 pt-3 ps&quot;]/li[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link menu-toggle&quot;]/div[1]</value>
-      <webElementGuid>6de614a3-2659-45c5-8f2b-ad938d66c11e</webElementGuid>
+      <webElementGuid>8cf10888-ce2d-4c65-99fb-0a247fda4e23</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//aside[@id='layout-menu']/ul/li[6]/a/div</value>
-      <webElementGuid>132065ca-ebd4-401d-b02a-6d6f2eb920b3</webElementGuid>
+      <webElementGuid>184fb3db-016b-436c-84e9-94ecb3c0e78c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Jobs'])[1]/following::div[1]</value>
-      <webElementGuid>e2f4e634-6d10-4f6d-afb2-34ea05a43de4</webElementGuid>
+      <webElementGuid>da505fac-7bc3-499b-8187-b02427d59b56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Workshifts'])[1]/following::div[2]</value>
-      <webElementGuid>d74dbafa-97c2-442c-b86b-2aee6e69ff23</webElementGuid>
+      <webElementGuid>3efd27c8-2bda-40e6-a3e9-69da35f2b3fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::div[1]</value>
-      <webElementGuid>c879f34b-9344-4f18-a6cf-2ca0b99f8bd0</webElementGuid>
+      <webElementGuid>1d777b48-5b88-452a-b18e-0e7ec2ee7046</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Positions'])[1]/preceding::div[2]</value>
-      <webElementGuid>6749e7c4-c733-4b03-9481-cc08ac7a6b81</webElementGuid>
+      <webElementGuid>20ef63c6-8ed2-4361-80c9-cb97ff92a0e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Recruitment Tools']/parent::*</value>
-      <webElementGuid>4ec03d6c-7f6f-4790-88b6-3ad713057674</webElementGuid>
+      <webElementGuid>db6a4393-4ec2-4521-9b19-0917917fde2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a/div</value>
-      <webElementGuid>1491363f-2db0-4fe0-984e-612169ffac27</webElementGuid>
+      <webElementGuid>d64089b7-9a39-453c-81f0-5bbdf4f48283</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Recruitment Tools' or . = 'Recruitment Tools')]</value>
-      <webElementGuid>8d663210-dd29-4aed-8579-63397f8b1d0e</webElementGuid>
+      <webElementGuid>5d8d8f6c-7f9f-4c1e-8569-a1435f357fd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

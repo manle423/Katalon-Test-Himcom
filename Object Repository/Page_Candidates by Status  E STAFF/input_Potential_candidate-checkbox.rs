@@ -6,19 +6,19 @@
    <elementGuidId>90cfb7f3-9e97-42e9-9419-b5628ce3ce34</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@value='10545']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.candidate-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='10536']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=row[name=&quot;N Store Leader NGUYEN TUAN CUONG no511743@demo.estaff.vn 0000000000 05/05/2025 2nd Interview Waiting Approve Potential Reject &quot;i] >> internal:role=checkbox</value>
+         <value>internal:role=row[name=&quot;TT Sales Admin CAO THỊ TIÊN caothitien98@gmail.com 0388170555 03/05/2025 Applied Waiting Approve Potential Reject &quot;i] >> internal:role=checkbox</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>35a38057-fcf0-4fe9-a627-9ed26f3f796a</webElementGuid>
+      <webElementGuid>058d5c9c-e373-4a41-b02c-0d93bc8fe6ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>6425fbe6-3d5c-4446-ab48-10c3e77bd8f2</webElementGuid>
+      <webElementGuid>5a6fc27f-ae65-461b-b042-72340e12af0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>class</name>
       <type>Main</type>
       <value>candidate-checkbox</value>
-      <webElementGuid>f2a8e4a2-4b64-4fdd-9ce7-13bd26e9933a</webElementGuid>
+      <webElementGuid>74ed8187-c0d1-4420-a743-0fceee5fa3a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>10545</value>
-      <webElementGuid>68f9692f-9864-47e8-afe4-68518dc766b8</webElementGuid>
+      <value>10536</value>
+      <webElementGuid>5cc52c11-7296-4496-bd87-d734bd129a1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,15 +61,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;example&quot;)/tbody[1]/tr[1]/td[@class=&quot;candidate-cell&quot;]/input[@class=&quot;candidate-checkbox&quot;]</value>
-      <webElementGuid>d37cac86-3ec0-4e61-bae8-446f79228101</webElementGuid>
+      <webElementGuid>ecf48d44-faed-4cb1-8eab-45d508212a5d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='10545']</value>
-      <webElementGuid>144d7557-bdfe-4e2f-9a53-53e9175adb67</webElementGuid>
+      <value>//input[@value='10536']</value>
+      <webElementGuid>878967fd-fcf7-41af-aa3f-1cd8e0fb487e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='example']/tbody/tr/td/input</value>
-      <webElementGuid>3de6fd29-aa35-48f5-be9d-0026e7ef7183</webElementGuid>
+      <webElementGuid>93ddb9e5-ebe8-47f4-af1e-0439c28c8f0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td/input</value>
-      <webElementGuid>d61b850b-2034-4d90-b8da-b4f5ec9eae20</webElementGuid>
+      <webElementGuid>693522e7-0874-4dde-9413-20ef23e4c963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>4d8bacc9-eb6a-41f2-9e3f-4156b11b8cb4</webElementGuid>
+      <webElementGuid>581fb38b-4621-4297-b9bd-9ef43e40c2de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,19 +6,19 @@
    <elementGuidId>0dda9946-c482-45a4-8f28-3b3e616b26f1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='updateSelectedBtn']</value>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-pass.btn-sm.me-1</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#updateSelectedBtn</value>
+         <key>XPATH</key>
+         <value>//table[@id='example']/tbody/tr/td[10]/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot; Approve&quot;i]</value>
+         <value>internal:role=button[name=&quot;Approve&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,108 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>762df8d3-e0ed-44db-87d7-659484bf2c1a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>23d78dbc-07fa-4221-ba2b-0a4b71fabc8a</webElementGuid>
+      <webElementGuid>5cc5ac7f-5030-42f1-a9d1-e93c365b6a39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item text-primary fw-bold</value>
-      <webElementGuid>594b6c9b-8af5-4b52-9d80-ee3b2c6667db</webElementGuid>
+      <value>btn btn-primary btn-pass btn-sm me-1</value>
+      <webElementGuid>7567a153-05c7-4c16-8721-877e8957b272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>data-candidate-id</name>
       <type>Main</type>
-      <value>updateSelectedBtn</value>
-      <webElementGuid>ca8fbf96-78f6-4231-9dd6-1cc829e45fe9</webElementGuid>
+      <value>10536</value>
+      <webElementGuid>a22725f8-997d-4fd5-a47d-8746ec042b91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                         Approve
-                    </value>
-      <webElementGuid>a8b50b9e-97ad-4495-8a28-4550eee5b213</webElementGuid>
+      <value>Approve</value>
+      <webElementGuid>74463269-f525-4d0b-a739-e82482d7d8b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;updateSelectedBtn&quot;)</value>
-      <webElementGuid>2b64eaec-5e91-460c-98e9-579377d983f0</webElementGuid>
+      <value>id(&quot;example&quot;)/tbody[1]/tr[1]/td[10]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;btn btn-primary btn-pass btn-sm me-1&quot;]</value>
+      <webElementGuid>b8629a8d-8121-47d6-b43d-b9345a14371b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='updateSelectedBtn']</value>
-      <webElementGuid>acd5d52d-6119-416f-a640-066954ee8057</webElementGuid>
+      <value>//table[@id='example']/tbody/tr/td[10]/div/button</value>
+      <webElementGuid>5507b473-41ee-4fec-8e01-bff34016e9fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export data'])[1]/following::button[1]</value>
-      <webElementGuid>2009d8f8-2f0f-412b-ad79-83529127457c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waiting'])[2]/following::button[1]</value>
+      <webElementGuid>3a454175-1122-4899-bb84-69f89f96c4ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='More actions'])[1]/following::button[1]</value>
-      <webElementGuid>3a374195-0531-4ecb-b789-1c82eceab305</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applied'])[3]/following::button[1]</value>
+      <webElementGuid>fc207021-b172-4846-836f-438727f30660</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Failed detail imported'])[1]/preceding::button[2]</value>
-      <webElementGuid>a7a2feb9-f4ff-4d04-b0d1-46ec01eb0b60</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Potential'])[2]/preceding::button[1]</value>
+      <webElementGuid>25825797-428d-4fe5-8fe7-2c39500d28e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
-      <webElementGuid>11340e47-3cb1-4bef-bf16-0d551d5deac8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[1]/preceding::button[2]</value>
+      <webElementGuid>790e0868-6b20-4f31-a2bf-ac6024e55fd8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button</value>
-      <webElementGuid>1ababec3-a62e-4dd7-a178-f7cfd9300cef</webElementGuid>
+      <value>//td[10]/div/button</value>
+      <webElementGuid>2c6ce31c-0a26-4391-b2aa-a41bbe9d8305</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'updateSelectedBtn' and (text() = '
-                         Approve
-                    ' or . = '
-                         Approve
-                    ')]</value>
-      <webElementGuid>62fad5e9-59d1-4489-9510-f3792659127b</webElementGuid>
+      <value>//button[(text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>59e7c039-f8f8-4956-960a-fd9fdbc21dfc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
