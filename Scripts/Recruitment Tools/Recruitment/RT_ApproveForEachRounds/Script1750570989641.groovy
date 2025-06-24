@@ -46,10 +46,23 @@ for (String round : recruitmentRounds) {
 
     if (WebUI.verifyElementPresent(approveBtn, 5, FailureHandling.OPTIONAL)) {
         WebUI.scrollToElement(approveBtn, 3)
-
         WebUI.delay(1)
-
         WebUI.click(approveBtn)
+
+        // ✅ Verify round column (8th column) after approve
+        WebUI.delay(2) // đợi dữ liệu update sau khi approve
+
+        TestObject roundCol = new TestObject().addProperty(
+            'xpath',
+            ConditionType.EQUALS,
+            "//table[@id='example']//td[4][normalize-space(text())='${candidateName}']/following-sibling::td[4][normalize-space(text())='${round}']"
+        )
+
+        if (WebUI.verifyElementPresent(roundCol, 5, FailureHandling.OPTIONAL)) {
+            println("✅ Candidate [$candidateName] correctly moved to round [$round].")
+        } else {
+            println("❌ Candidate [$candidateName] not showing in round [$round] (column 8 check failed).")
+        }
     }
 }
 
